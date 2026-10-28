@@ -1,0 +1,74 @@
+Exercício 1: O "Limpador" de Preços
+Cenário: Você recebeu uma lista de preços que vieram de um site brasileiro, 
+mas eles estão como texto (string), usam vírgula e têm espaços inúteis.
+Tarefa: Use um for para limpar os dados, substituir a vírgula por ponto e 
+converter tudo para números reais (float).
+
+# Dados de entrada
+precos_sujos = ["  150,50 ", " 20,00", "100,99  ", "  5,50"]
+
+preco_limpos = []
+
+strip() //Limpa espaços vazios
+replace() //Subtitue os valores
+
+Exercício 2: O Filtro de Qualidade
+Cenário: Em uma linha de produção, peças com medida abaixo de 10.0 são descartadas.
+Tarefa: Dada a lista de medidas, use um for para criar uma nova lista apenas com 
+as peças aprovadas e conte quantas foram descartadas.
+
+medidas = [10.5, 9.8, 11.2, 10.1, 9.5, 8.9, 12.0]
+
+Exercício 4: O Somador de Faturamento
+vendas = [120.0, 80.5, 300.0, 45.9, 150.0]
+
+
+
+
+
+🏆 Desafio: O Analista de E-commerce
+Cenário: Você recebeu uma lista de pedidos de uma loja. 
+O problema é que alguns valores vieram como texto (string), 
+outros têm espaços sobrando, e você só quer saber o 
+faturamento das vendas acima de R$ 100,00 (que são as vendas "VIP").
+
+Tarefa:
+
+Percorra a lista de pedidos usando um for.
+
+Limpe o valor do "preço" (remova espaços e converta para float).
+
+Verifique se o preço é maior que 100.
+
+Se for, some esse valor a um totalizador e guarde o nome do produto em uma lista de "Produtos VIP".
+
+# Dados de entrada (Simulando um banco de dados bagunçado)
+pedidos = [
+    {"produto": "Mouse Gamer", "preco": " 150.00 "},
+    {"produto": "Tapete Mouse", "preco": "25.50"},
+    {"produto": "Monitor 24p", "preco": " 850.00"},
+    {"produto": "Cabo HDMI", "preco": "40.00 "},
+    {"produto": "Teclado Mecânico", "preco": "220.00"}
+]
+
+# Variáveis que eles vão precisar:
+faturamento_vip = 0
+lista_vip = []
+
+
+
+📝 O Desafio: Processador de Dados Climáticos
+Contexto: Um sensor de temperatura enviou uma lista de leituras, mas o sistema está com falhas. 
+Os dados chegaram como uma lista de strings bagunçadas.
+
+Objetivo:
+
+1 -Limpar os espaços e caracteres extras.
+
+2 -Converter para números (float).
+
+3 -Validar se os dados são confiáveis.
+
+4 -Gerar um relatório estatístico.
+
+leituras_sujas = ["  22.5  ", "23.0", "  ERROR  ", "21.8", "  24.5°C  ", " 22.0 "]

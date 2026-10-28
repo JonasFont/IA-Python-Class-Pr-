@@ -1,0 +1,57 @@
+
+data = {
+    'Vendedor': ['Ana', 'Bruno', "Ana", 'Carlos', "Bruno", "Ana"],
+    'Produto': ['Teclado', 'Mouse', 'Monitor', "Teclado", 'Teclado', 'Mouse'],
+    'Vendaass': [150, 80, 1200, 150, 160, 90],
+    'Comissao': [15, 8, 120, 15, 9,10]
+}
+
+df = pd.DataFrame(data)
+
+
+
+resumo_vendas = df.groupby('Vendedor').agg({
+    'Vendas': ['sum', 'mean', 'count'],
+    'Comissao': 'sum'
+})
+
+import pandas as pd
+from pandas import merge
+
+# Dados de Vendas
+vendas_dados = {
+    'Loja': ['Centro', 'Shopping', 'Centro', 'Aeroporto', 'Shopping', 'Centro', 'Aeroporto', 'Shopping'],
+    'Produto': ['Café', 'Bolo', 'Café', 'Sanduíche', 'Café', 'Sanduíche', 'Bolo', 'Bolo'],
+    'Valor': [12.50, 75.00, 13.50, 78.00, 19.50, 12.00, 100.00, 45.00]
+}
+
+# Dados Operacionais
+unidades_dados = {
+    'Loja': ['Centro', 'Shopping', 'Aeroporto'],
+    'Meta_Faturamento': [100.00, 120.00, 80.00],
+    'Custo_Fixo': [30.00, 40.00, 25.00]
+}
+
+df_vendas = pd.DataFrame(vendas_dados)
+df_unidades = pd.DataFrame(unidades_dados)
+a =pd.merge(df_vendas, df_unidades)
+print(a)
+vendas_totais = df_vendas.groupby('Loja').agg(
+    total_faturado=('Valor', 'sum'),
+    Qtd_Vendas=('Valor', 'count'),
+)
+
+produtos_vendas = df_vendas.groupby('Loja').agg(
+    media_valor=('Valor', 'mean'),
+    itens=('Produto', 'count'),
+)
+#idmax()
+print(vendas_totais)
+print(produtos_vendas)
+
+df_bolos = df_vendas[df_vendas['Produto'] == "Bolo"].groupby('Loja').agg(
+    Bolo_mais_caro=('Valor', 'max'),
+    soma_total_bolo=('Valor', 'sum'),
+)
+
+print(df_bolos)

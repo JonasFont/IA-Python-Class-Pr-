@@ -1,0 +1,8 @@
+Produto,Categoria,Preco_Unitario,Quantidade_Vendida,Avaliação_Clientes,Custo_Fabricação,Faturamento_Total,Lucro_Total
+Smartphone,Mobile,2500,150,4.5,1200,375000,195000
+Laptop,Computação,4500,80,4.8,2800,360000,136000
+Tablet,Mobile,1800,120,4.2,900,216000,108000
+Fone Bluetooth,Acessórios,350,400,4.0,100,140000,100000
+Monitor 4K,Computação,2200,60,4.7,1400,132000,48000
+Teclado Mecânico,Acessórios,450,210,4.9,180,94500,56700
+Mouse Gamer,Acessórios,250,310,4.6,90,77500,49600

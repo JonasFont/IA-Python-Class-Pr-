@@ -1,0 +1,39 @@
+
+Exercicio map():
+Você tem uma lista de preços de produtos em uma loja, 
+mas a loja decidiu dar um aumento de 10% em tudo devido à inflação.
+
+Exercicio filter():
+Um professor tem uma lista com as notas finais dos alunos. Ele precisa saber 
+rapidamente quais alunos foram aprovados (nota maior ou igual a 7.0).
+
+produtos = [
+    {"nome": "Mouse", "preco": 50},
+    {"nome": "Teclado", "preco": 150},
+    {"nome": "Monitor", "preco": 800},
+    {"nome": "Cabo HDMI", "preco": 30},
+    {"nome": "Headset", "preco": 250}
+]
+Exercico lambda - filter() 
+Filtrar apenas produtos com preço > 100
+
+Criar uma lista apenas com os NOVOS PREÇOS (com 15% de imposto)
+
+
+canais = [
+    {"nome": "TechDicas", "visualizacoes": [100, 200, 300]},
+    {"nome": "VlogVazio", "visualizacoes": []},             
+    {"nome": "PyMaster", "visualizacoes": [500, 1000]},      
+    {"nome": "Culinaria", "visualizacoes": [50, 50]},       
+    {"nome": "GamerPro", "visualizacoes": []}             
+]
+O Desafio: Analista de Dados de Streaming
+Cenário: Você recebeu dados de uma plataforma de vídeos.
+Cada dicionário representa um Canal, e dentro dele existe uma lista de Visualizações de cada vídeo postado no último mês.
+O Problema: O relatório veio "sujo". 
+Alguns canais não postaram nada (lista de visualizações vazia). 
+Se você tentar calcular a média de uma lista vazia, 
+o programa vai dar erro (divisão por zero).
+
+Filtrar canais que possuem pelo menos 1 vídeo
+Nome e a Média

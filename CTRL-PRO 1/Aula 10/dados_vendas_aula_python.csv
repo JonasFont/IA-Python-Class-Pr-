@@ -1,0 +1,1001 @@
+id_pedido,data,cliente_id,cidade,categoria,produto,valor_unitario,quantidade,metodo_pagamento,custo_envio,valor_total
+1001,2023-12-18,202,Curitiba,Vestuário,Produto_45,194.87,8,Cartão de Débito,32.1,1558.96
+1002,2023-05-15,448,Porto Alegre,Eletrônicos,Produto_6,19.83,8,Cartão de Débito,31.61,158.64
+1003,2023-12-12,370,Belo Horizonte,Decoração,Produto_6,167.82,1,Cartão de Débito,41.3,167.82
+1004,2023-01-25,206,Curitiba,Livros,Produto_49,113.61,9,Cartão de Débito,26.44,1022.49
+1005,2023-08-19,171,Rio de Janeiro,Eletrônicos,Produto_10,170.47,5,Boleto,49.83,852.35
+1006,2023-04-26,288,Recife,Alimentos,Produto_24,68.68,4,Pix,7.68,274.72
+1007,2023-10-20,120,Porto Alegre,Alimentos,Produto_32,446.36,6,Cartão de Crédito,5.14,2678.16
+1008,2023-03-12,202,Recife,Alimentos,Produto_36,300.86,6,Boleto,33.81,1805.16
+1009,2023-10-07,221,Belo Horizonte,Alimentos,Produto_2,342.76,2,Cartão de Débito,18.43,685.52
+1010,2023-07-14,314,Recife,Eletrônicos,Produto_28,396.69,8,Cartão de Crédito,15.82,3173.52
+1011,2023-06-17,430,São Paulo,Livros,Produto_2,254.24,7,Cartão de Crédito,19.04,1779.68
+1012,2023-10-03,187,Porto Alegre,Alimentos,Produto_50,52.59,1,Cartão de Crédito,16.52,52.59
+1013,2023-09-07,472,Salvador,Livros,Produto_48,273.18,5,Cartão de Crédito,6.39,1365.9
+1014,2023-06-19,199,Salvador,Vestuário,Produto_43,297.55,6,Pix,48.72,1785.3
+1015,2023-04-04,459,Rio de Janeiro,Livros,Produto_6,375.27,4,Boleto,14.93,1501.08
+1016,2023-01-12,251,São Paulo,Eletrônicos,Produto_49,221.51,2,Pix,38.03,443.02
+1017,2023-05-24,230,Curitiba,Decoração,Produto_20,72.51,4,Pix,39.32,290.04
+1018,2023-08-06,249,Salvador,Decoração,Produto_44,149.05,1,Boleto,46.82,149.05
+1019,2023-01-01,408,Curitiba,Vestuário,Produto_23,187.91,7,Boleto,6.37,1315.37
+1020,2023-06-19,357,São Paulo,Vestuário,Produto_25,326.5,2,Pix,44.24,653.0
+1021,2023-12-27,443,São Paulo,Eletrônicos,Produto_18,289.68,2,,28.73,579.36
+1022,2023-04-13,393,São Paulo,Livros,Produto_38,184.49,9,Pix,33.46,1660.41
+1023,2023-12-31,485,Rio de Janeiro,Eletrônicos,Produto_8,493.39,5,Cartão de Crédito,34.0,2466.95
+1024,2023-12-30,291,São Paulo,Livros,Produto_45,306.83,2,Cartão de Crédito,41.89,613.66
+1025,2023-10-24,376,Recife,Livros,Produto_6,126.24,9,Cartão de Crédito,20.0,1136.16
+1026,2023-05-09,260,São Paulo,Alimentos,Produto_29,59.87,9,Boleto,37.99,538.83
+1027,2023-05-29,413,Porto Alegre,Vestuário,Produto_29,84.9,1,Cartão de Crédito,28.79,84.9
+1028,2023-03-21,121,Curitiba,Decoração,Produto_6,130.52,3,Boleto,40.7,391.56
+1029,2023-03-23,352,Salvador,Alimentos,Produto_5,88.73,4,Cartão de Crédito,49.57,354.92
+1030,2023-08-12,335,Rio de Janeiro,Decoração,Produto_28,101.42,7,Cartão de Crédito,14.03,709.94
+1031,2023-11-15,444,Rio de Janeiro,Alimentos,Produto_49,149.7,4,Boleto,49.76,598.8
+1032,2023-03-12,148,São Paulo,Decoração,Produto_35,94.95,2,Pix,9.04,189.9
+1033,2023-12-24,158,Porto Alegre,Livros,Produto_22,449.42,7,Cartão de Débito,5.1,3145.94
+1034,2023-07-07,269,Curitiba,Decoração,Produto_4,49.31,6,Pix,6.99,295.86
+1035,2023-10-04,287,Curitiba,Alimentos,Produto_9,267.01,3,Cartão de Débito,20.38,801.03
+1036,2023-12-17,370,São Paulo,Alimentos,Produto_8,211.09,6,Cartão de Crédito,33.48,1266.54
+1037,2023-01-19,289,Salvador,Eletrônicos,Produto_5,491.37,6,Pix,8.11,2948.22
+1038,2023-05-13,274,Recife,Eletrônicos,Produto_29,64.9,5,Cartão de Crédito,5.25,324.5
+1039,2023-10-03,150,Recife,Livros,Produto_46,204.95,4,Boleto,47.17,819.8
+1040,2023-11-07,463,Porto Alegre,Decoração,Produto_4,485.04,1,Boleto,41.99,485.04
+1041,2023-06-25,154,São Paulo,Eletrônicos,Produto_22,434.1,6,Boleto,41.41,2604.6
+1042,2023-09-17,343,Curitiba,Decoração,Produto_15,410.37,2,Cartão de Crédito,44.8,820.74
+1043,2023-05-06,419,Recife,Decoração,Produto_30,136.37,3,Cartão de Débito,36.5,409.11
+1044,2023-04-20,230,Belo Horizonte,Alimentos,Produto_28,93.73,8,Cartão de Crédito,9.7,749.84
+1045,2023-04-21,406,Rio de Janeiro,Decoração,Produto_29,337.64,6,Cartão de Crédito,22.96,2025.84
+1046,2023-06-15,234,Belo Horizonte,Livros,Produto_31,465.39,3,Pix,37.54,1396.17
+1047,2023-10-27,120,São Paulo,Decoração,Produto_25,282.81,7,Cartão de Débito,17.62,1979.67
+1048,2023-08-15,428,Porto Alegre,Eletrônicos,Produto_14,290.09,4,Boleto,35.93,1160.36
+1049,2023-12-18,266,São Paulo,Livros,Produto_27,147.19,9,,6.1,1324.71
+1050,2023-08-31,373,Belo Horizonte,Alimentos,Produto_16,387.05,5,Cartão de Débito,18.78,1935.25
+1051,2023-06-06,487,São Paulo,Vestuário,Produto_1,50000.0,3,Cartão de Crédito,29.71,150000.0
+1052,2023-05-14,188,Rio de Janeiro,Vestuário,Produto_32,168.6,2,,33.44,337.2
+1053,2023-03-22,415,Porto Alegre,Vestuário,Produto_9,218.46,2,Cartão de Débito,30.97,436.92
+1054,2023-02-13,113,Porto Alegre,Livros,Produto_8,258.73,3,Cartão de Crédito,36.4,776.19
+1055,2023-02-06,341,São Paulo,Vestuário,Produto_6,128.78,2,Boleto,5.27,257.56
+1056,2023-09-09,364,Porto Alegre,Decoração,Produto_44,66.27,4,,9.54,265.08
+1057,2023-11-26,445,São Paulo,Alimentos,Produto_11,309.2,2,Cartão de Crédito,44.1,618.4
+1058,2023-09-22,152,Rio de Janeiro,Eletrônicos,Produto_30,151.43,9,Cartão de Débito,35.68,1362.87
+1059,2023-01-30,485,Curitiba,Eletrônicos,Produto_45,294.81,2,Cartão de Crédito,10.08,589.62
+1060,2023-06-24,439,Belo Horizonte,Eletrônicos,Produto_10,85.64,9,Cartão de Débito,42.89,770.76
+1061,2023-07-22,191,Rio de Janeiro,Eletrônicos,Produto_1,245.76,6,Pix,15.9,1474.56
+1062,2023-08-16,466,Rio de Janeiro,Eletrônicos,Produto_44,270.97,1,Cartão de Débito,26.52,270.97
+1063,2023-03-24,363,Curitiba,Livros,Produto_1,35.39,4,Cartão de Crédito,11.53,141.56
+1064,2023-12-26,134,Curitiba,Decoração,Produto_10,174.94,1,Boleto,36.95,174.94
+1065,2023-04-22,305,Curitiba,Alimentos,Produto_40,75.86,6,Pix,35.01,455.16
+1066,2023-12-07,180,Belo Horizonte,Alimentos,Produto_35,41.05,4,Cartão de Débito,14.5,164.2
+1067,2023-07-05,149,São Paulo,Decoração,Produto_3,495.08,3,Pix,43.85,1485.24
+1068,2023-02-17,459,Curitiba,Alimentos,Produto_24,167.95,3,Cartão de Crédito,23.06,503.85
+1069,2023-03-31,487,Rio de Janeiro,Eletrônicos,Produto_19,406.84,9,Cartão de Crédito,18.16,3661.56
+1070,2023-10-10,101,Recife,Eletrônicos,Produto_30,134.77,6,Boleto,11.85,808.62
+1071,2023-07-20,489,Belo Horizonte,Eletrônicos,Produto_40,343.94,9,Pix,16.98,3095.46
+1072,2023-08-24,153,Rio de Janeiro,Vestuário,Produto_45,382.51,5,Boleto,5.99,1912.55
+1073,2023-09-27,205,São Paulo,Livros,Produto_21,301.86,2,Cartão de Débito,31.25,603.72
+1074,2023-04-04,359,Recife,Decoração,Produto_13,241.07,8,Cartão de Crédito,42.9,1928.56
+1075,2023-08-30,409,Salvador,Decoração,Produto_34,211.8,5,Boleto,29.7,1059.0
+1076,2023-03-25,290,Recife,Livros,Produto_46,180.95,2,Cartão de Débito,14.87,361.9
+1077,2023-10-09,317,Rio de Janeiro,Livros,Produto_42,465.47,4,Cartão de Crédito,6.52,1861.88
+1078,2023-07-29,143,São Paulo,Livros,Produto_46,417.0,9,Boleto,14.66,3753.0
+1079,2023-07-02,261,Recife,Livros,Produto_16,482.86,4,Cartão de Crédito,23.73,1931.44
+1080,2023-06-13,301,Recife,Decoração,Produto_17,70.91,4,Cartão de Débito,39.18,283.64
+1081,2023-10-11,369,Salvador,Eletrônicos,Produto_4,368.13,2,Cartão de Débito,13.45,736.26
+1082,2023-02-24,450,Belo Horizonte,Vestuário,Produto_40,469.79,6,Cartão de Crédito,37.39,2818.74
+1083,2023-01-08,403,São Paulo,Livros,Produto_15,98.8,2,Boleto,44.01,197.6
+1084,2023-01-16,370,Rio de Janeiro,Vestuário,Produto_2,42.58,7,Pix,25.43,298.06
+1085,2023-09-21,314,Rio de Janeiro,Livros,Produto_39,373.15,3,Cartão de Crédito,41.96,1119.45
+1086,2023-09-19,351,Rio de Janeiro,Livros,Produto_28,291.49,3,Cartão de Débito,29.96,874.47
+1087,2023-05-15,289,Salvador,Livros,Produto_19,422.5,5,Cartão de Débito,33.67,2112.5
+1088,2023-01-17,395,Recife,Eletrônicos,Produto_15,78.49,3,Cartão de Débito,28.68,235.47
+1089,2023-06-23,312,Porto Alegre,Vestuário,Produto_42,399.68,2,Cartão de Débito,25.84,799.36
+1090,2023-04-06,307,Salvador,Alimentos,Produto_26,108.8,9,Cartão de Crédito,15.56,979.2
+1091,2023-04-20,336,Porto Alegre,Alimentos,Produto_42,90.19,2,Boleto,18.64,180.38
+1092,2023-09-17,437,Rio de Janeiro,Decoração,Produto_43,90.49,2,Boleto,18.05,180.98
+1093,2023-09-11,466,Curitiba,Alimentos,Produto_28,409.14,8,Boleto,30.35,3273.12
+1094,2023-02-10,152,Rio de Janeiro,Alimentos,Produto_34,335.95,9,Cartão de Débito,10.4,3023.55
+1095,2023-03-07,379,Belo Horizonte,Alimentos,Produto_16,266.3,7,Cartão de Crédito,46.26,1864.1
+1096,2023-12-19,316,São Paulo,Livros,Produto_28,185.83,3,Cartão de Débito,37.43,557.49
+1097,2023-12-18,351,Curitiba,Livros,Produto_7,439.83,9,Boleto,23.07,3958.47
+1098,2023-01-10,287,Belo Horizonte,Alimentos,Produto_6,202.3,3,Cartão de Crédito,12.14,606.9
+1099,2023-07-20,479,Curitiba,Livros,Produto_36,410.13,5,Pix,44.69,2050.65
+1100,2023-09-24,140,Belo Horizonte,Eletrônicos,Produto_28,225.18,9,Cartão de Débito,42.07,2026.62
+1101,2023-11-05,256,São Paulo,Livros,Produto_27,194.7,3,Cartão de Crédito,37.48,584.1
+1102,2023-12-23,114,Recife,Decoração,Produto_45,236.71,7,Cartão de Débito,17.22,1656.97
+1103,2023-05-27,400,Porto Alegre,Livros,Produto_12,157.68,1,Cartão de Débito,23.11,157.68
+1104,2023-02-01,164,Salvador,Eletrônicos,Produto_7,376.33,4,Cartão de Crédito,9.62,1505.32
+1105,2023-06-17,444,Rio de Janeiro,Eletrônicos,Produto_42,256.33,4,Boleto,13.51,1025.32
+1106,2023-05-12,426,Rio de Janeiro,Decoração,Produto_39,123.78,7,Pix,40.24,866.46
+1107,2023-01-05,108,Recife,Decoração,Produto_14,450.79,8,Pix,37.18,3606.32
+1108,2023-10-05,443,Curitiba,Vestuário,Produto_9,198.11,1,Pix,31.71,198.11
+1109,2023-08-11,228,Salvador,Decoração,Produto_35,276.34,5,Pix,45.31,1381.7
+1110,2023-10-18,235,São Paulo,Vestuário,Produto_3,454.17,7,Pix,31.25,3179.19
+1111,2023-11-27,162,Recife,Alimentos,Produto_1,315.88,4,Cartão de Crédito,26.01,1263.52
+1112,2023-10-13,238,Porto Alegre,Livros,Produto_44,67.28,4,Cartão de Débito,20.32,269.12
+1113,2023-10-12,180,São Paulo,Vestuário,Produto_37,470.52,4,Boleto,47.32,1882.08
+1114,2023-05-24,491,Porto Alegre,Vestuário,Produto_19,317.58,6,Pix,8.72,1905.48
+1115,2023-01-05,262,Rio de Janeiro,Eletrônicos,Produto_38,174.1,7,Cartão de Débito,46.89,1218.7
+1116,2023-12-26,388,Salvador,Vestuário,Produto_37,78.24,2,Cartão de Débito,42.2,156.48
+1117,2023-01-14,478,Belo Horizonte,Eletrônicos,Produto_7,399.07,5,Pix,10.85,1995.35
+1118,2023-06-17,360,São Paulo,Decoração,Produto_25,313.84,4,Cartão de Crédito,30.42,1255.36
+1119,2023-12-06,330,Salvador,Alimentos,Produto_50,271.4,3,Cartão de Crédito,43.99,814.2
+1120,2023-08-26,140,Recife,Eletrônicos,Produto_18,448.01,7,Cartão de Crédito,30.73,3136.07
+1121,2023-05-23,127,Recife,Decoração,Produto_2,396.41,6,Pix,45.82,2378.46
+1122,2023-05-28,234,Recife,Alimentos,Produto_19,84.32,7,Cartão de Débito,47.43,590.24
+1123,2023-02-18,300,Salvador,Decoração,Produto_9,162.74,5,Cartão de Débito,24.01,813.7
+1124,2023-05-18,427,Rio de Janeiro,Eletrônicos,Produto_26,131.76,6,Boleto,21.98,790.56
+1125,2023-01-31,367,Curitiba,Eletrônicos,Produto_24,374.53,5,Cartão de Crédito,47.13,1872.65
+1126,2023-12-14,132,Recife,Alimentos,Produto_34,26.43,7,Cartão de Crédito,35.38,185.01
+1127,2023-12-19,147,São Paulo,Decoração,Produto_50,289.25,2,Cartão de Crédito,10.22,578.5
+1128,2023-12-06,161,Recife,Vestuário,Produto_46,383.6,5,Boleto,6.9,1918.0
+1129,2023-04-01,315,Recife,Vestuário,Produto_11,439.62,6,Pix,30.41,2637.72
+1130,2023-07-30,392,Porto Alegre,Vestuário,Produto_42,177.62,6,Pix,46.86,1065.72
+1131,2023-01-23,198,Rio de Janeiro,Eletrônicos,Produto_46,412.42,5,Pix,42.99,2062.1
+1132,2023-01-03,271,São Paulo,Livros,Produto_46,64.21,7,Boleto,35.41,449.47
+1133,2023-09-20,459,Curitiba,Decoração,Produto_39,424.76,8,Cartão de Crédito,11.26,3398.08
+1134,2023-07-16,313,Recife,Livros,Produto_30,72.47,7,Pix,16.44,507.29
+1135,2023-07-15,134,Curitiba,Alimentos,Produto_38,204.67,5,Boleto,44.4,1023.35
+1136,2023-12-06,326,São Paulo,Alimentos,Produto_38,400.67,1,Cartão de Crédito,13.23,400.67
+1137,2023-03-25,200,Curitiba,Eletrônicos,Produto_50,83.46,5,Pix,17.53,417.3
+1138,2023-07-09,230,Salvador,Livros,Produto_46,122.33,2,Cartão de Crédito,10.83,244.66
+1139,2023-06-02,356,Porto Alegre,Livros,Produto_17,363.9,5,Pix,35.42,1819.5
+1140,2023-03-27,104,Salvador,Livros,Produto_9,362.82,5,Pix,47.48,1814.1
+1141,2023-03-22,317,Rio de Janeiro,Livros,Produto_48,324.16,2,Cartão de Débito,17.1,648.32
+1142,2023-09-24,354,Curitiba,Alimentos,Produto_2,350.03,5,Cartão de Crédito,26.39,1750.15
+1143,2023-06-12,497,Rio de Janeiro,Alimentos,Produto_9,275.93,4,Pix,33.55,1103.72
+1144,2023-02-26,458,Salvador,Vestuário,Produto_45,133.38,1,Cartão de Crédito,49.98,133.38
+1145,2023-01-21,382,Rio de Janeiro,Eletrônicos,Produto_22,179.39,3,Cartão de Débito,9.72,538.17
+1146,2023-10-18,492,Curitiba,Vestuário,Produto_10,98.98,1,Pix,27.44,98.98
+1147,2023-04-10,306,Salvador,Livros,Produto_8,455.14,5,Cartão de Débito,22.33,2275.7
+1148,2023-04-20,114,Rio de Janeiro,Alimentos,Produto_14,295.86,4,Cartão de Crédito,43.96,1183.44
+1149,2023-09-26,445,Curitiba,Vestuário,Produto_4,206.42,7,Cartão de Crédito,26.42,1444.94
+1150,2023-07-12,141,Curitiba,Vestuário,Produto_35,236.38,5,Boleto,9.99,1181.9
+1151,2023-12-16,479,Porto Alegre,Livros,Produto_24,474.17,4,Cartão de Crédito,33.55,1896.68
+1152,2023-12-17,278,Recife,Alimentos,Produto_3,85.14,2,Cartão de Débito,39.69,170.28
+1153,2023-02-09,162,Recife,Eletrônicos,Produto_14,297.25,4,Boleto,5.13,1189.0
+1154,2023-02-10,451,Curitiba,Vestuário,Produto_35,257.89,2,Pix,43.65,515.78
+1155,2023-08-28,330,Salvador,Vestuário,Produto_32,309.61,8,Cartão de Crédito,13.37,2476.88
+1156,2023-11-25,340,Belo Horizonte,Decoração,Produto_22,18.87,3,Cartão de Débito,29.84,56.61
+1157,2023-07-13,151,Curitiba,Alimentos,Produto_5,437.34,9,Cartão de Crédito,23.71,3936.06
+1158,2023-08-14,195,Salvador,Eletrônicos,Produto_14,466.74,4,Boleto,37.38,1866.96
+1159,2023-04-21,487,Curitiba,Vestuário,Produto_6,286.92,6,,21.7,1721.52
+1160,2023-08-27,321,Recife,Decoração,Produto_5,351.36,5,Boleto,44.14,1756.8
+1161,2023-01-25,330,Rio de Janeiro,Eletrônicos,Produto_8,462.02,1,Pix,37.87,462.02
+1162,2023-04-13,336,Porto Alegre,Alimentos,Produto_30,356.55,9,Cartão de Crédito,34.15,3208.95
+1163,2023-11-06,242,Belo Horizonte,Vestuário,Produto_6,84.74,1,Boleto,40.83,84.74
+1164,2023-10-26,270,São Paulo,Decoração,Produto_32,292.38,8,Boleto,38.93,2339.04
+1165,2023-04-22,128,São Paulo,Alimentos,Produto_22,307.29,9,Boleto,6.62,2765.61
+1166,2023-01-09,135,São Paulo,Vestuário,Produto_7,217.82,9,Boleto,22.76,1960.38
+1167,2023-07-19,112,Salvador,Livros,Produto_22,370.86,1,Boleto,46.89,370.86
+1168,2023-10-26,259,Belo Horizonte,Livros,Produto_2,467.84,2,Boleto,10.66,935.68
+1169,2023-12-29,426,São Paulo,Eletrônicos,Produto_48,463.53,1,Cartão de Crédito,38.17,463.53
+1170,2023-07-21,286,São Paulo,Livros,Produto_50,230.91,2,Cartão de Débito,48.86,461.82
+1171,2023-11-04,342,Porto Alegre,Eletrônicos,Produto_18,65.49,8,Pix,7.35,523.92
+1172,2023-07-14,185,Belo Horizonte,Eletrônicos,Produto_18,492.57,5,Cartão de Crédito,35.7,2462.85
+1173,2023-05-18,383,São Paulo,Vestuário,Produto_16,421.06,7,Cartão de Débito,26.07,2947.42
+1174,2023-08-05,165,Curitiba,Eletrônicos,Produto_27,71.08,2,Cartão de Crédito,31.06,142.16
+1175,2023-07-26,269,Rio de Janeiro,Livros,Produto_43,461.21,8,Cartão de Crédito,8.84,3689.68
+1176,2023-01-07,144,Curitiba,Eletrônicos,Produto_2,436.25,6,Pix,6.94,2617.5
+1177,2023-06-05,161,Belo Horizonte,Decoração,Produto_49,264.23,8,Boleto,35.01,2113.84
+1178,2023-08-24,233,São Paulo,Livros,Produto_44,299.72,1,Cartão de Débito,42.05,299.72
+1179,2023-07-16,383,Belo Horizonte,Livros,Produto_23,205.51,1,Boleto,40.19,205.51
+1180,2023-11-14,127,Porto Alegre,Alimentos,Produto_49,36.83,7,Boleto,29.47,257.81
+1181,2023-02-27,207,Rio de Janeiro,Vestuário,Produto_19,174.25,8,Cartão de Crédito,9.49,1394.0
+1182,2023-05-25,143,Rio de Janeiro,Eletrônicos,Produto_7,403.4,3,Boleto,35.96,1210.2
+1183,2023-01-16,439,Porto Alegre,Vestuário,Produto_4,12.27,5,Boleto,15.88,61.35
+1184,2023-03-29,385,Rio de Janeiro,Alimentos,Produto_13,173.41,1,Boleto,46.0,173.41
+1185,2023-01-07,430,Belo Horizonte,Eletrônicos,Produto_43,205.1,7,Pix,42.72,1435.7
+1186,2023-03-04,227,Porto Alegre,Decoração,Produto_43,273.32,5,Cartão de Débito,36.92,1366.6
+1187,2023-03-30,447,Rio de Janeiro,Decoração,Produto_40,460.73,8,Boleto,47.7,3685.84
+1188,2023-06-04,330,Salvador,Vestuário,Produto_29,179.71,8,Cartão de Crédito,6.41,1437.68
+1189,2023-08-27,289,São Paulo,Livros,Produto_35,180.01,9,Cartão de Débito,38.13,1620.09
+1190,2023-11-27,324,Porto Alegre,Alimentos,Produto_36,371.38,7,Boleto,19.86,2599.66
+1191,2023-09-27,484,Belo Horizonte,Livros,Produto_50,231.59,1,Pix,45.77,231.59
+1192,2023-02-01,476,Recife,Alimentos,Produto_36,120.06,3,,17.0,360.18
+1193,2023-12-31,382,São Paulo,Alimentos,Produto_18,231.7,8,Boleto,37.62,1853.6
+1194,2023-01-25,220,Curitiba,Decoração,Produto_12,79.02,3,Cartão de Crédito,44.49,237.06
+1195,2023-12-23,215,Recife,Alimentos,Produto_3,96.43,8,Cartão de Débito,6.87,771.44
+1196,2023-01-07,332,Salvador,Eletrônicos,Produto_1,254.2,1,Pix,22.89,254.2
+1197,2023-08-20,358,Recife,Livros,Produto_6,215.27,5,Cartão de Débito,39.3,1076.35
+1198,2023-12-11,458,Curitiba,Decoração,Produto_6,458.27,4,Cartão de Crédito,25.47,1833.08
+1199,2023-04-20,297,Belo Horizonte,Eletrônicos,Produto_26,187.57,5,Cartão de Crédito,17.03,937.85
+1200,2023-05-07,236,Salvador,Vestuário,Produto_7,294.49,8,Cartão de Crédito,14.89,2355.92
+1201,2023-05-02,417,Recife,Decoração,Produto_6,319.81,4,Cartão de Crédito,10.92,1279.24
+1202,2023-02-02,264,Curitiba,Decoração,Produto_35,16.42,4,Boleto,43.57,65.68
+1203,2023-04-19,324,Recife,Decoração,Produto_15,335.13,3,Pix,30.89,1005.39
+1204,2023-09-03,406,Porto Alegre,Eletrônicos,Produto_42,97.24,7,Pix,8.44,680.68
+1205,2023-07-04,333,Curitiba,Vestuário,Produto_18,480.92,3,Pix,22.22,1442.76
+1206,2023-07-15,271,Belo Horizonte,Alimentos,Produto_40,82.84,3,Cartão de Crédito,21.55,248.52
+1207,2023-11-22,251,Curitiba,Vestuário,Produto_32,213.17,5,Cartão de Crédito,13.18,1065.85
+1208,2023-02-26,414,Porto Alegre,Alimentos,Produto_16,51.82,5,Cartão de Crédito,24.6,259.1
+1209,2023-07-13,473,Porto Alegre,Eletrônicos,Produto_43,498.47,6,Boleto,19.94,2990.82
+1210,2023-03-03,259,São Paulo,Alimentos,Produto_31,256.08,8,Cartão de Débito,20.38,2048.64
+1211,2023-08-29,195,São Paulo,Vestuário,Produto_50,301.74,6,Boleto,38.26,1810.44
+1212,2023-09-20,332,Rio de Janeiro,Decoração,Produto_32,42.87,1,Cartão de Crédito,15.05,42.87
+1213,2023-11-28,279,Curitiba,Livros,Produto_36,377.48,8,Cartão de Débito,33.88,3019.84
+1214,2023-09-03,212,São Paulo,Alimentos,Produto_5,112.85,8,Cartão de Crédito,30.68,902.8
+1215,2023-03-01,417,São Paulo,Vestuário,Produto_38,450.05,9,Boleto,30.56,4050.45
+1216,2023-07-06,151,São Paulo,Livros,Produto_29,110.52,9,Boleto,34.84,994.68
+1217,2023-04-16,367,Rio de Janeiro,Livros,Produto_23,103.44,2,,29.68,206.88
+1218,2023-04-29,394,Curitiba,Decoração,Produto_21,27.91,2,Cartão de Débito,44.57,55.82
+1219,2023-03-04,485,Porto Alegre,Livros,Produto_2,241.31,3,,35.4,723.93
+1220,2023-04-14,486,Curitiba,Decoração,Produto_33,286.77,1,Pix,29.61,286.77
+1221,2023-05-15,212,Rio de Janeiro,Livros,Produto_28,42.2,4,Pix,42.34,168.8
+1222,2023-12-19,200,Salvador,Alimentos,Produto_19,390.01,4,Cartão de Crédito,32.28,1560.04
+1223,2023-09-03,212,Recife,Decoração,Produto_8,232.11,9,Pix,18.1,2088.99
+1224,2023-03-01,180,São Paulo,Alimentos,Produto_48,266.95,9,Cartão de Crédito,14.32,2402.55
+1225,2023-02-11,286,Rio de Janeiro,Eletrônicos,Produto_36,225.97,9,Cartão de Débito,11.85,2033.73
+1226,2023-04-16,212,Belo Horizonte,Vestuário,Produto_35,206.37,7,Cartão de Crédito,45.48,1444.59
+1227,2023-05-17,101,Rio de Janeiro,Livros,Produto_12,284.22,2,Pix,36.96,568.44
+1228,2023-12-07,229,Recife,Decoração,Produto_8,86.07,5,Cartão de Débito,47.18,430.35
+1229,2023-02-28,319,Belo Horizonte,Livros,Produto_48,99.14,4,Boleto,32.15,396.56
+1230,2023-04-05,153,Recife,Alimentos,Produto_26,432.27,8,Cartão de Débito,26.3,3458.16
+1231,2023-11-08,442,Belo Horizonte,Eletrônicos,Produto_12,473.6,2,Cartão de Crédito,7.69,947.2
+1232,2023-01-23,323,Recife,Eletrônicos,Produto_8,192.92,6,Cartão de Débito,35.22,1157.52
+1233,2023-09-23,324,Curitiba,Eletrônicos,Produto_14,142.66,5,Boleto,31.2,713.3
+1234,2023-02-16,484,Curitiba,Vestuário,Produto_18,325.56,2,Pix,49.56,651.12
+1235,2023-07-20,225,São Paulo,Alimentos,Produto_11,210.28,1,Cartão de Débito,15.76,210.28
+1236,2023-11-10,229,Belo Horizonte,Vestuário,Produto_6,22.44,8,Boleto,28.88,179.52
+1237,2023-02-28,152,Belo Horizonte,Decoração,Produto_23,86.51,2,Cartão de Crédito,34.29,173.02
+1238,2023-11-25,271,Porto Alegre,Alimentos,Produto_41,360.83,7,Cartão de Crédito,34.01,2525.81
+1239,2023-03-05,317,Recife,Livros,Produto_11,332.87,9,Cartão de Débito,30.26,2995.83
+1240,2023-03-20,259,Rio de Janeiro,Vestuário,Produto_13,23.28,9,Boleto,39.96,209.52
+1241,2023-06-27,297,Rio de Janeiro,Vestuário,Produto_39,118.77,8,Cartão de Débito,14.22,950.16
+1242,2023-05-25,346,Curitiba,Eletrônicos,Produto_47,123.23,9,Boleto,37.65,1109.07
+1243,2023-12-24,423,Rio de Janeiro,Alimentos,Produto_12,339.23,2,,32.89,678.46
+1244,2023-09-19,302,Porto Alegre,Alimentos,Produto_39,19.66,6,Boleto,45.32,117.96
+1245,2023-02-15,283,Recife,Livros,Produto_27,61.01,4,Cartão de Débito,43.12,244.04
+1246,2023-08-16,222,Rio de Janeiro,Decoração,Produto_20,401.96,4,Pix,19.18,1607.84
+1247,2023-01-05,354,Recife,Decoração,Produto_30,97.49,5,Pix,17.43,487.45
+1248,2023-03-10,393,Curitiba,Livros,Produto_26,329.85,3,Cartão de Crédito,49.17,989.55
+1249,2023-04-20,379,Curitiba,Eletrônicos,Produto_6,126.71,1,Pix,28.73,126.71
+1250,2023-07-31,424,Rio de Janeiro,Vestuário,Produto_13,58.73,8,Cartão de Crédito,45.79,469.84
+1251,2023-11-08,471,Rio de Janeiro,Livros,Produto_38,129.15,5,Cartão de Crédito,12.37,645.75
+1252,2023-11-16,197,Curitiba,Decoração,Produto_22,363.91,3,Cartão de Débito,33.93,1091.73
+1253,2023-06-10,297,Recife,Decoração,Produto_28,429.29,7,Cartão de Débito,41.44,3005.03
+1254,2023-02-07,494,Recife,Decoração,Produto_16,416.81,7,Cartão de Débito,47.63,2917.67
+1255,2023-08-04,339,São Paulo,Vestuário,Produto_30,204.62,1,Boleto,20.18,204.62
+1256,2023-12-13,243,São Paulo,Eletrônicos,Produto_8,337.36,9,Cartão de Débito,37.62,3036.24
+1257,2023-12-08,196,Belo Horizonte,Eletrônicos,Produto_5,110.44,2,Cartão de Crédito,29.25,220.88
+1258,2023-07-16,300,Recife,Vestuário,Produto_33,153.64,5,Pix,7.73,768.2
+1259,2023-12-17,223,São Paulo,Vestuário,Produto_16,449.2,5,Cartão de Crédito,36.05,2246.0
+1260,2023-04-13,286,São Paulo,Eletrônicos,Produto_41,16.37,8,Pix,36.05,130.96
+1261,2023-04-09,425,Porto Alegre,Livros,Produto_39,51.9,8,Cartão de Crédito,46.88,415.2
+1262,2023-02-28,448,Salvador,Eletrônicos,Produto_15,111.86,7,Cartão de Crédito,27.38,783.02
+1263,2023-12-18,358,Porto Alegre,Alimentos,Produto_50,23.0,7,Boleto,15.36,161.0
+1264,2023-09-04,247,Recife,Eletrônicos,Produto_21,98.9,6,Cartão de Crédito,7.01,593.4
+1265,2023-04-12,351,Salvador,Alimentos,Produto_36,295.69,6,Pix,23.7,1774.14
+1266,2023-12-27,445,Recife,Decoração,Produto_38,216.5,9,,18.59,1948.5
+1267,2023-09-11,246,Rio de Janeiro,Alimentos,Produto_2,447.41,6,Boleto,39.25,2684.46
+1268,2023-03-07,247,Belo Horizonte,Alimentos,Produto_31,410.55,2,Cartão de Débito,20.94,821.1
+1269,2023-05-05,451,Recife,Livros,Produto_28,177.49,2,Pix,47.71,354.98
+1270,2023-03-07,298,Curitiba,Livros,Produto_23,137.12,5,Boleto,48.3,685.6
+1271,2023-08-11,407,Rio de Janeiro,Alimentos,Produto_40,196.05,4,Cartão de Crédito,32.94,784.2
+1272,2023-08-15,227,São Paulo,Alimentos,Produto_36,299.24,2,Cartão de Débito,46.79,598.48
+1273,2023-10-17,138,Belo Horizonte,Eletrônicos,Produto_25,141.35,3,Boleto,39.24,424.05
+1274,2023-01-05,437,Curitiba,Eletrônicos,Produto_34,315.83,7,Cartão de Débito,29.61,2210.81
+1275,2023-05-19,459,Salvador,Decoração,Produto_34,210.61,8,Pix,13.11,1684.88
+1276,2023-09-04,228,Belo Horizonte,Vestuário,Produto_38,280.5,6,Cartão de Débito,25.64,1683.0
+1277,2023-11-01,366,Recife,Vestuário,Produto_26,223.7,5,Cartão de Débito,30.24,1118.5
+1278,2023-11-19,250,São Paulo,Vestuário,Produto_37,154.29,1,Boleto,43.88,154.29
+1279,2023-11-05,397,Rio de Janeiro,Vestuário,Produto_40,474.74,8,Boleto,26.66,3797.92
+1280,2023-07-16,198,Porto Alegre,Alimentos,Produto_43,384.17,3,Cartão de Crédito,45.4,1152.51
+1281,2023-12-10,362,Salvador,Decoração,Produto_10,78.66,6,Boleto,35.35,471.96
+1282,2023-10-15,351,Curitiba,Eletrônicos,Produto_45,435.55,3,Boleto,11.16,1306.65
+1283,2023-05-06,243,Curitiba,Livros,Produto_5,248.84,7,Pix,49.77,1741.88
+1284,2023-04-09,445,Rio de Janeiro,Alimentos,Produto_13,448.33,7,Cartão de Crédito,28.73,3138.31
+1285,2023-10-10,211,São Paulo,Vestuário,Produto_12,401.93,9,Boleto,22.63,3617.37
+1286,2023-01-27,159,Belo Horizonte,Vestuário,Produto_40,218.35,5,Pix,34.66,1091.75
+1287,2023-08-05,468,Curitiba,Decoração,Produto_11,21.01,8,Cartão de Débito,9.9,168.08
+1288,2023-03-12,101,Salvador,Eletrônicos,Produto_50,141.65,8,Boleto,33.64,1133.2
+1289,2023-12-15,484,Rio de Janeiro,Eletrônicos,Produto_39,275.4,1,Boleto,27.42,275.4
+1290,2023-10-11,403,Curitiba,Livros,Produto_17,320.4,5,Cartão de Débito,23.3,1602.0
+1291,2023-07-02,353,São Paulo,Eletrônicos,Produto_24,136.36,3,Cartão de Débito,47.89,409.08
+1292,2023-06-21,239,Belo Horizonte,Decoração,Produto_14,78.28,1,Cartão de Débito,28.51,78.28
+1293,2023-09-17,136,Porto Alegre,Alimentos,Produto_7,419.12,4,,14.86,1676.48
+1294,2023-08-03,259,Belo Horizonte,Alimentos,Produto_40,492.36,8,Pix,25.65,3938.88
+1295,2023-05-25,108,Porto Alegre,Eletrônicos,Produto_23,267.59,3,Pix,46.37,802.77
+1296,2023-11-09,332,Recife,Livros,Produto_23,94.12,2,Boleto,12.92,188.24
+1297,2023-11-14,198,Recife,Vestuário,Produto_45,143.43,9,Cartão de Débito,14.63,1290.87
+1298,2023-01-16,246,Recife,Vestuário,Produto_13,19.01,5,Cartão de Crédito,5.59,95.05
+1299,2023-01-19,403,Salvador,Vestuário,Produto_8,458.01,7,Pix,5.64,3206.07
+1300,2023-10-19,307,São Paulo,Decoração,Produto_8,67.7,2,Cartão de Crédito,42.32,135.4
+1301,2023-10-26,230,Belo Horizonte,Alimentos,Produto_16,292.49,9,Cartão de Débito,37.95,2632.41
+1302,2023-10-10,251,Recife,Vestuário,Produto_22,144.29,9,Cartão de Débito,20.98,1298.61
+1303,2023-11-18,153,Porto Alegre,Alimentos,Produto_44,281.55,4,Pix,36.42,1126.2
+1304,2023-12-12,219,Salvador,Livros,Produto_39,329.2,4,Pix,22.78,1316.8
+1305,2023-04-19,260,Curitiba,Livros,Produto_46,416.57,6,Cartão de Débito,47.88,2499.42
+1306,2023-11-27,215,Recife,Eletrônicos,Produto_35,111.15,6,Cartão de Crédito,48.52,666.9
+1307,2023-03-27,174,Rio de Janeiro,Alimentos,Produto_26,15.39,1,Boleto,22.68,15.39
+1308,2023-03-17,212,São Paulo,Decoração,Produto_37,77.07,9,Pix,43.44,693.63
+1309,2023-12-02,203,Recife,Vestuário,Produto_11,451.01,2,Cartão de Débito,39.79,902.02
+1310,2023-09-12,439,Belo Horizonte,Livros,Produto_47,438.21,5,Pix,18.95,2191.05
+1311,2023-01-21,353,Salvador,Alimentos,Produto_19,302.73,9,Boleto,15.44,2724.57
+1312,2023-11-11,326,Recife,Decoração,Produto_34,304.25,4,,25.62,1217.0
+1313,2023-08-01,211,Salvador,Decoração,Produto_37,335.87,3,Pix,40.16,1007.61
+1314,2023-02-07,198,Porto Alegre,Vestuário,Produto_30,95.93,7,Boleto,48.21,671.51
+1315,2023-02-06,252,Salvador,Vestuário,Produto_29,458.06,6,Cartão de Crédito,39.36,2748.36
+1316,2023-09-12,448,Recife,Decoração,Produto_40,215.2,8,Cartão de Débito,43.48,1721.6
+1317,2023-08-06,483,Rio de Janeiro,Vestuário,Produto_31,197.74,3,Boleto,32.14,593.22
+1318,2023-01-15,465,Rio de Janeiro,Alimentos,Produto_35,264.27,5,Cartão de Débito,42.59,1321.35
+1319,2023-10-19,437,Salvador,Alimentos,Produto_34,33.01,4,,40.3,132.04
+1320,2023-06-01,293,Curitiba,Eletrônicos,Produto_42,91.48,4,Cartão de Débito,21.96,365.92
+1321,2023-01-14,409,Salvador,Alimentos,Produto_9,371.64,4,Pix,29.84,1486.56
+1322,2023-10-09,262,Salvador,Livros,Produto_22,50.57,8,Cartão de Débito,41.21,404.56
+1323,2023-02-25,307,Curitiba,Alimentos,Produto_26,305.54,6,Boleto,7.07,1833.24
+1324,2023-12-19,268,Salvador,Eletrônicos,Produto_24,130.22,3,Pix,41.36,390.66
+1325,2023-10-29,260,Porto Alegre,Livros,Produto_45,200.75,5,Boleto,13.0,1003.75
+1326,2023-05-20,167,Recife,Alimentos,Produto_41,151.46,6,Cartão de Crédito,28.16,908.76
+1327,2023-06-18,388,Belo Horizonte,Alimentos,Produto_4,184.28,5,Boleto,41.37,921.4
+1328,2023-12-22,497,Porto Alegre,Decoração,Produto_21,362.33,6,Cartão de Débito,16.42,2173.98
+1329,2023-10-23,376,São Paulo,Alimentos,Produto_5,155.59,8,Boleto,16.06,1244.72
+1330,2023-05-08,403,São Paulo,Vestuário,Produto_28,287.54,7,Cartão de Crédito,23.12,2012.78
+1331,2023-06-05,483,São Paulo,Eletrônicos,Produto_50,243.26,5,Boleto,45.26,1216.3
+1332,2023-06-30,491,Recife,Eletrônicos,Produto_30,335.2,6,Pix,5.02,2011.2
+1333,2023-05-29,234,São Paulo,Eletrônicos,Produto_35,469.05,4,Pix,45.56,1876.2
+1334,2023-03-14,294,Salvador,Eletrônicos,Produto_21,368.96,9,Cartão de Débito,11.92,3320.64
+1335,2023-03-16,227,São Paulo,Vestuário,Produto_30,115.32,4,Cartão de Débito,49.55,461.28
+1336,2023-05-19,132,Curitiba,Eletrônicos,Produto_18,25.28,1,Cartão de Crédito,47.97,25.28
+1337,2023-05-07,275,Recife,Alimentos,Produto_6,138.51,7,Cartão de Crédito,27.26,969.57
+1338,2023-05-10,470,Curitiba,Vestuário,Produto_1,301.59,7,Pix,28.07,2111.13
+1339,2023-07-23,474,Rio de Janeiro,Eletrônicos,Produto_45,35.2,4,Boleto,26.67,140.8
+1340,2023-05-21,121,Salvador,Vestuário,Produto_48,253.22,3,Pix,33.59,759.66
+1341,2023-11-14,337,Belo Horizonte,Decoração,Produto_12,302.45,8,Pix,9.08,2419.6
+1342,2023-12-02,257,Porto Alegre,Eletrônicos,Produto_24,173.78,5,,6.47,868.9
+1343,2023-03-09,137,Recife,Alimentos,Produto_32,387.75,7,Boleto,7.6,2714.25
+1344,2023-01-25,329,Porto Alegre,Vestuário,Produto_34,62.23,4,Cartão de Crédito,25.0,248.92
+1345,2023-09-11,464,Porto Alegre,Livros,Produto_14,46.82,4,Pix,17.4,187.28
+1346,2023-03-14,150,Rio de Janeiro,Livros,Produto_44,366.81,8,Pix,32.99,2934.48
+1347,2023-01-07,363,Porto Alegre,Eletrônicos,Produto_9,252.79,8,Cartão de Crédito,49.66,2022.32
+1348,2023-10-25,382,Belo Horizonte,Livros,Produto_33,347.32,2,Cartão de Crédito,22.38,694.64
+1349,2023-01-29,126,Rio de Janeiro,Eletrônicos,Produto_28,223.07,2,Pix,30.82,446.14
+1350,2023-08-10,325,Recife,Vestuário,Produto_1,130.74,3,Pix,23.7,392.22
+1351,2023-12-07,376,Recife,Alimentos,Produto_29,411.36,3,Cartão de Débito,43.13,1234.08
+1352,2023-09-25,385,São Paulo,Eletrônicos,Produto_47,401.71,1,Boleto,45.6,401.71
+1353,2023-11-18,196,Rio de Janeiro,Livros,Produto_34,350.4,3,Pix,44.48,1051.2
+1354,2023-08-14,383,Curitiba,Eletrônicos,Produto_16,143.35,6,Cartão de Crédito,48.85,860.1
+1355,2023-12-08,466,São Paulo,Alimentos,Produto_50,299.21,8,Cartão de Débito,6.24,2393.68
+1356,2023-10-13,416,Rio de Janeiro,Vestuário,Produto_25,186.88,6,Pix,42.79,1121.28
+1357,2023-07-22,403,Salvador,Decoração,Produto_17,54.88,5,Cartão de Crédito,38.83,274.4
+1358,2023-03-28,246,Recife,Livros,Produto_16,459.48,4,Boleto,15.29,1837.92
+1359,2023-02-07,103,Belo Horizonte,Vestuário,Produto_29,77.04,3,Cartão de Débito,48.03,231.12
+1360,2023-09-15,134,Porto Alegre,Vestuário,Produto_46,475.62,4,Pix,11.67,1902.48
+1361,2023-09-19,291,Salvador,Alimentos,Produto_39,228.54,7,,35.58,1599.78
+1362,2023-09-25,148,Belo Horizonte,Alimentos,Produto_4,100.72,1,,15.12,100.72
+1363,2023-06-08,116,Belo Horizonte,Alimentos,Produto_34,275.53,7,Pix,24.41,1928.71
+1364,2023-07-31,271,Curitiba,Decoração,Produto_28,437.74,1,Cartão de Crédito,37.36,437.74
+1365,2024-01-01,319,Belo Horizonte,Livros,Produto_3,368.79,2,Pix,30.35,737.58
+1366,2023-02-15,257,Belo Horizonte,Livros,Produto_34,405.21,4,Cartão de Débito,24.24,1620.84
+1367,2023-09-18,145,Rio de Janeiro,Eletrônicos,Produto_15,332.8,1,Cartão de Débito,19.69,332.8
+1368,2023-02-13,472,Recife,Decoração,Produto_29,349.22,9,Cartão de Crédito,42.78,3142.98
+1369,2023-12-10,105,Curitiba,Eletrônicos,Produto_45,426.11,6,Cartão de Débito,11.47,2556.66
+1370,2023-10-06,198,São Paulo,Alimentos,Produto_46,132.34,1,Boleto,24.35,132.34
+1371,2023-12-28,479,Salvador,Vestuário,Produto_47,249.82,1,,45.67,249.82
+1372,2023-04-10,332,São Paulo,Livros,Produto_49,118.39,6,Pix,43.06,710.34
+1373,2023-10-04,136,Rio de Janeiro,Alimentos,Produto_28,493.96,4,Boleto,23.04,1975.84
+1374,2023-10-08,379,Belo Horizonte,Alimentos,Produto_16,472.59,4,,39.34,1890.36
+1375,2023-04-14,448,Recife,Vestuário,Produto_27,29.32,6,Cartão de Débito,42.04,175.92
+1376,2023-12-31,401,Porto Alegre,Alimentos,Produto_43,355.73,7,Cartão de Crédito,45.0,2490.11
+1377,2023-02-06,280,São Paulo,Eletrônicos,Produto_41,463.37,9,Boleto,29.5,4170.33
+1378,2023-01-14,194,Belo Horizonte,Vestuário,Produto_49,98.48,5,Cartão de Crédito,14.2,492.4
+1379,2023-05-05,198,Recife,Decoração,Produto_25,288.29,9,Pix,16.49,2594.61
+1380,2023-01-30,287,Belo Horizonte,Vestuário,Produto_40,458.59,4,Cartão de Débito,18.31,1834.36
+1381,2023-06-08,215,Rio de Janeiro,Decoração,Produto_29,26.63,2,Boleto,31.72,53.26
+1382,2023-07-09,290,Salvador,Eletrônicos,Produto_30,351.74,3,Cartão de Débito,6.48,1055.22
+1383,2023-10-11,352,Rio de Janeiro,Alimentos,Produto_42,155.7,1,Cartão de Crédito,33.62,155.7
+1384,2023-02-20,260,Salvador,Alimentos,Produto_33,462.95,6,,21.4,2777.7
+1385,2023-10-10,355,Salvador,Eletrônicos,Produto_28,485.82,6,Pix,18.29,2914.92
+1386,2023-12-27,422,Salvador,Eletrônicos,Produto_50,472.69,1,Cartão de Crédito,44.58,472.69
+1387,2023-05-30,227,Rio de Janeiro,Alimentos,Produto_43,242.36,3,Pix,25.7,727.08
+1388,2023-01-01,117,Belo Horizonte,Livros,Produto_27,432.4,5,Pix,9.28,2162.0
+1389,2023-07-09,380,Salvador,Livros,Produto_15,423.83,3,Cartão de Débito,42.2,1271.49
+1390,2023-05-07,322,Rio de Janeiro,Eletrônicos,Produto_29,166.36,3,Cartão de Crédito,7.14,499.08
+1391,2023-03-01,153,Porto Alegre,Alimentos,Produto_16,416.17,3,Cartão de Débito,37.7,1248.51
+1392,2023-01-11,157,Porto Alegre,Eletrônicos,Produto_30,28.13,5,Cartão de Débito,39.83,140.65
+1393,2023-10-24,422,Curitiba,Alimentos,Produto_26,302.17,5,Cartão de Débito,20.87,1510.85
+1394,2023-01-06,459,Rio de Janeiro,Alimentos,Produto_6,122.7,4,Boleto,42.12,490.8
+1395,2023-12-12,273,São Paulo,Alimentos,Produto_26,69.08,1,Cartão de Crédito,28.2,69.08
+1396,2023-11-05,379,Belo Horizonte,Livros,Produto_5,47.71,5,Boleto,25.85,238.55
+1397,2023-07-31,213,São Paulo,Livros,Produto_28,351.18,5,Pix,7.04,1755.9
+1398,2023-11-25,387,Salvador,Alimentos,Produto_47,176.54,4,Cartão de Crédito,18.05,706.16
+1399,2023-05-29,441,Salvador,Livros,Produto_18,365.14,6,Pix,46.9,2190.84
+1400,2023-07-21,250,Porto Alegre,Decoração,Produto_33,42.02,4,Cartão de Débito,22.63,168.08
+1401,2023-08-14,226,Recife,Vestuário,Produto_24,164.49,7,Cartão de Débito,29.6,1151.43
+1402,2023-09-27,254,Recife,Decoração,Produto_22,274.35,7,Pix,28.94,1920.45
+1403,2023-03-11,485,Salvador,Livros,Produto_22,397.45,2,Cartão de Débito,31.57,794.9
+1404,2023-11-03,372,São Paulo,Decoração,Produto_45,166.19,3,Cartão de Crédito,7.76,498.57
+1405,2023-10-22,203,Salvador,Alimentos,Produto_31,316.69,1,Cartão de Débito,21.3,316.69
+1406,2023-03-04,492,Rio de Janeiro,Vestuário,Produto_8,444.13,8,Pix,37.54,3553.04
+1407,2023-01-12,398,Salvador,Eletrônicos,Produto_6,311.77,9,Boleto,14.03,2805.93
+1408,2023-07-06,345,Salvador,Livros,Produto_50,124.15,4,Boleto,14.16,496.6
+1409,2023-10-21,275,Recife,Alimentos,Produto_50,21.96,6,Pix,5.45,131.76
+1410,2023-12-30,138,Salvador,Eletrônicos,Produto_50,436.35,9,Boleto,24.69,3927.15
+1411,2023-03-19,269,São Paulo,Alimentos,Produto_28,20.42,6,Cartão de Débito,44.72,122.52
+1412,2023-12-09,346,Belo Horizonte,Decoração,Produto_47,438.6,9,Pix,7.34,3947.4
+1413,2023-06-21,125,São Paulo,Eletrônicos,Produto_34,269.18,4,Cartão de Débito,13.6,1076.72
+1414,2023-09-13,454,São Paulo,Decoração,Produto_14,470.14,8,Cartão de Débito,18.95,3761.12
+1415,2023-03-29,405,Curitiba,Eletrônicos,Produto_1,401.4,9,,37.93,3612.6
+1416,2023-03-14,112,Belo Horizonte,Vestuário,Produto_14,498.99,4,Cartão de Débito,33.83,1995.96
+1417,2023-07-25,415,Belo Horizonte,Vestuário,Produto_26,181.85,5,Boleto,23.72,909.25
+1418,2023-09-17,490,Porto Alegre,Alimentos,Produto_27,385.92,8,Pix,39.16,3087.36
+1419,2023-11-20,412,Belo Horizonte,Livros,Produto_7,206.95,6,Pix,32.43,1241.7
+1420,2023-09-09,135,Belo Horizonte,Livros,Produto_37,245.14,7,Cartão de Crédito,45.32,1715.98
+1421,2023-01-16,272,Salvador,Eletrônicos,Produto_35,317.48,3,Cartão de Crédito,41.81,952.44
+1422,2023-02-07,119,Belo Horizonte,Vestuário,Produto_21,438.1,7,,16.38,3066.7
+1423,2023-04-03,420,Curitiba,Vestuário,Produto_43,492.2,8,Boleto,17.21,3937.6
+1424,2023-02-09,363,Salvador,Livros,Produto_15,386.45,6,Cartão de Crédito,10.64,2318.7
+1425,2023-10-26,499,Porto Alegre,Livros,Produto_5,214.71,9,Cartão de Débito,20.16,1932.39
+1426,2023-09-15,241,Belo Horizonte,Vestuário,Produto_21,216.46,6,Boleto,49.98,1298.76
+1427,2023-11-20,470,Curitiba,Eletrônicos,Produto_9,371.42,9,Pix,23.26,3342.78
+1428,2023-01-10,242,Recife,Eletrônicos,Produto_8,127.0,4,Cartão de Débito,14.92,508.0
+1429,2023-05-01,191,Curitiba,Decoração,Produto_15,64.13,8,Pix,39.31,513.04
+1430,2023-05-08,453,Porto Alegre,Eletrônicos,Produto_45,183.76,4,,29.41,735.04
+1431,2023-02-08,421,Curitiba,Livros,Produto_30,150.75,2,Pix,11.73,301.5
+1432,2023-02-24,387,Recife,Alimentos,Produto_31,155.19,9,Cartão de Débito,22.13,1396.71
+1433,2023-09-13,314,São Paulo,Alimentos,Produto_3,124.47,5,Boleto,23.65,622.35
+1434,2023-07-14,441,Recife,Decoração,Produto_23,30.63,4,Cartão de Crédito,38.92,122.52
+1435,2023-02-23,150,Salvador,Decoração,Produto_36,18.76,2,Pix,5.93,37.52
+1436,2023-08-11,252,Rio de Janeiro,Decoração,Produto_40,493.98,1,Cartão de Crédito,17.11,493.98
+1437,2023-04-06,285,Rio de Janeiro,Decoração,Produto_17,219.61,7,Boleto,28.29,1537.27
+1438,2023-02-19,162,Curitiba,Alimentos,Produto_28,198.32,6,Pix,17.1,1189.92
+1439,2023-12-24,289,Recife,Livros,Produto_10,343.03,2,,33.28,686.06
+1440,2023-05-02,224,Porto Alegre,Eletrônicos,Produto_6,116.94,8,Boleto,26.68,935.52
+1441,2023-10-25,249,Salvador,Vestuário,Produto_42,475.48,4,Cartão de Débito,21.28,1901.92
+1442,2023-04-01,413,Recife,Livros,Produto_4,395.31,8,Cartão de Crédito,47.71,3162.48
+1443,2023-12-22,157,São Paulo,Decoração,Produto_32,53.81,7,Cartão de Crédito,33.45,376.67
+1444,2023-03-05,441,São Paulo,Eletrônicos,Produto_31,214.61,5,Pix,10.85,1073.05
+1445,2023-07-31,404,Curitiba,Vestuário,Produto_29,440.77,8,Pix,30.2,3526.16
+1446,2023-12-23,279,Curitiba,Livros,Produto_17,472.92,9,Cartão de Débito,40.13,4256.28
+1447,2023-11-06,269,São Paulo,Vestuário,Produto_8,239.03,5,Cartão de Crédito,36.88,1195.15
+1448,2023-11-25,425,Belo Horizonte,Livros,Produto_14,310.57,5,Cartão de Débito,12.74,1552.85
+1449,2023-02-20,370,Curitiba,Decoração,Produto_8,91.85,2,Pix,48.76,183.7
+1450,2023-09-21,153,Recife,Eletrônicos,Produto_10,495.67,5,Boleto,25.2,2478.35
+1451,2023-03-23,200,Curitiba,Alimentos,Produto_40,123.52,3,Boleto,12.16,370.56
+1452,2023-01-11,363,Porto Alegre,Vestuário,Produto_20,471.94,7,Pix,13.11,3303.58
+1453,2023-11-16,152,Recife,Alimentos,Produto_35,328.33,5,Cartão de Crédito,9.42,1641.65
+1454,2023-05-01,159,Rio de Janeiro,Alimentos,Produto_26,307.79,8,Pix,41.16,2462.32
+1455,2023-11-09,207,Curitiba,Decoração,Produto_43,261.22,1,Boleto,10.49,261.22
+1456,2023-11-17,104,Rio de Janeiro,Vestuário,Produto_12,123.03,3,Pix,10.63,369.09
+1457,2023-08-19,202,Belo Horizonte,Decoração,Produto_5,96.5,3,Cartão de Crédito,43.27,289.5
+1458,2023-01-28,295,Curitiba,Eletrônicos,Produto_50,118.04,9,Cartão de Crédito,20.51,1062.36
+1459,2023-09-09,361,Salvador,Alimentos,Produto_12,101.35,5,Boleto,6.39,506.75
+1460,2023-04-09,464,Curitiba,Vestuário,Produto_33,392.0,9,Boleto,7.34,3528.0
+1461,2023-01-21,471,Recife,Vestuário,Produto_1,181.56,9,Cartão de Débito,11.4,1634.04
+1462,2023-01-07,449,São Paulo,Decoração,Produto_28,38.34,1,Pix,14.6,38.34
+1463,2023-04-08,146,Curitiba,Vestuário,Produto_41,484.86,2,Boleto,34.93,969.72
+1464,2023-04-19,454,Rio de Janeiro,Eletrônicos,Produto_20,443.06,5,Cartão de Débito,12.08,2215.3
+1465,2023-04-18,410,Porto Alegre,Decoração,Produto_18,464.6,4,Cartão de Débito,10.35,1858.4
+1466,2023-10-30,407,Porto Alegre,Decoração,Produto_44,497.5,9,Pix,39.41,4477.5
+1467,2023-01-09,243,Porto Alegre,Eletrônicos,Produto_8,95.21,7,Cartão de Débito,35.2,666.47
+1468,2023-02-05,368,Recife,Livros,Produto_40,204.16,6,Boleto,24.59,1224.96
+1469,2023-04-16,469,Salvador,Alimentos,Produto_7,381.54,7,Pix,29.72,2670.78
+1470,2023-04-15,223,Salvador,Livros,Produto_10,351.05,1,Cartão de Débito,19.04,351.05
+1471,2023-01-17,205,Curitiba,Alimentos,Produto_22,85.41,1,Pix,26.71,85.41
+1472,2023-11-13,257,Curitiba,Eletrônicos,Produto_8,409.76,8,Cartão de Débito,27.8,3278.08
+1473,2023-08-21,246,Rio de Janeiro,Vestuário,Produto_23,119.98,2,Pix,22.43,239.96
+1474,2023-03-16,244,Curitiba,Alimentos,Produto_32,119.67,9,Pix,45.8,1077.03
+1475,2023-07-12,219,Belo Horizonte,Eletrônicos,Produto_6,273.12,7,Cartão de Débito,5.72,1911.84
+1476,2023-04-16,418,São Paulo,Livros,Produto_23,300.54,6,Pix,40.2,1803.24
+1477,2023-04-23,374,Salvador,Decoração,Produto_23,294.24,1,Boleto,10.6,294.24
+1478,2023-05-28,191,Belo Horizonte,Livros,Produto_24,54.83,1,Pix,40.89,54.83
+1479,2023-10-18,157,Curitiba,Livros,Produto_34,439.96,2,Pix,32.72,879.92
+1480,2023-07-24,445,Recife,Decoração,Produto_30,140.14,6,Pix,42.95,840.84
+1481,2023-02-26,328,Belo Horizonte,Alimentos,Produto_21,73.46,6,Cartão de Crédito,9.39,440.76
+1482,2023-11-13,216,Recife,Livros,Produto_15,445.49,2,Pix,30.15,890.98
+1483,2023-07-25,417,Salvador,Alimentos,Produto_13,478.27,1,,27.55,478.27
+1484,2023-04-09,378,Belo Horizonte,Vestuário,Produto_2,432.44,5,Cartão de Débito,36.78,2162.2
+1485,2023-07-29,226,Recife,Livros,Produto_24,406.66,5,Cartão de Crédito,29.04,2033.3
+1486,2023-11-19,492,Porto Alegre,Livros,Produto_47,331.07,2,Cartão de Débito,29.33,662.14
+1487,2023-12-26,495,Belo Horizonte,Vestuário,Produto_12,279.92,6,,24.33,1679.52
+1488,2023-02-28,228,Recife,Vestuário,Produto_48,52.62,9,Pix,18.9,473.58
+1489,2023-08-17,157,Belo Horizonte,Decoração,Produto_15,210.14,2,Cartão de Débito,26.7,420.28
+1490,2023-08-02,221,Rio de Janeiro,Decoração,Produto_13,192.62,2,Boleto,10.33,385.24
+1491,2023-05-14,100,Curitiba,Eletrônicos,Produto_3,137.28,3,Cartão de Débito,48.27,411.84
+1492,2023-09-17,338,Porto Alegre,Alimentos,Produto_46,364.48,7,Cartão de Débito,37.15,2551.36
+1493,2023-06-19,389,Curitiba,Eletrônicos,Produto_43,252.98,6,Cartão de Crédito,47.86,1517.88
+1494,2023-03-09,195,Curitiba,Vestuário,Produto_37,49.71,8,Pix,15.2,397.68
+1495,2023-10-28,225,Rio de Janeiro,Decoração,Produto_1,117.89,8,Pix,44.57,943.12
+1496,2023-07-23,217,Rio de Janeiro,Decoração,Produto_6,344.8,6,Cartão de Crédito,41.4,2068.8
+1497,2023-03-31,147,Recife,Alimentos,Produto_13,47.3,3,,35.47,141.9
+1498,2023-05-02,188,Rio de Janeiro,Alimentos,Produto_48,427.09,3,Boleto,33.13,1281.27
+1499,2023-12-26,336,São Paulo,Vestuário,Produto_15,252.62,1,Boleto,19.24,252.62
+1500,2023-03-02,472,Salvador,Decoração,Produto_18,245.49,7,Cartão de Débito,41.74,1718.43
+1501,2023-12-02,484,Salvador,Vestuário,Produto_33,300.28,5,Cartão de Débito,27.57,1501.4
+1502,2023-06-11,371,Porto Alegre,Decoração,Produto_9,414.09,4,Cartão de Débito,8.19,1656.36
+1503,2023-12-02,288,São Paulo,Decoração,Produto_33,180.43,4,Boleto,19.08,721.72
+1504,2023-11-11,291,Porto Alegre,Alimentos,Produto_28,342.23,4,Boleto,47.09,1368.92
+1505,2023-08-13,168,Rio de Janeiro,Alimentos,Produto_17,287.21,6,Cartão de Débito,43.28,1723.26
+1506,2023-02-23,377,Curitiba,Eletrônicos,Produto_25,140.84,8,Cartão de Crédito,49.19,1126.72
+1507,2023-05-28,448,Curitiba,Decoração,Produto_25,440.53,8,Boleto,33.26,3524.24
+1508,2023-11-10,346,São Paulo,Eletrônicos,Produto_39,400.74,5,Cartão de Crédito,16.14,2003.7
+1509,2023-02-11,175,Salvador,Decoração,Produto_50,332.64,6,Boleto,12.33,1995.84
+1510,2023-07-14,253,Curitiba,Livros,Produto_13,426.79,4,Cartão de Débito,13.41,1707.16
+1511,2023-06-11,243,São Paulo,Decoração,Produto_9,434.97,9,Boleto,5.89,3914.73
+1512,2023-08-10,185,Rio de Janeiro,Vestuário,Produto_2,357.1,8,Boleto,22.58,2856.8
+1513,2023-03-06,284,Rio de Janeiro,Livros,Produto_36,420.14,1,Boleto,13.61,420.14
+1514,2023-06-17,384,Rio de Janeiro,Decoração,Produto_20,351.76,2,Cartão de Crédito,23.52,703.52
+1515,2023-07-09,319,São Paulo,Vestuário,Produto_44,343.27,9,Cartão de Débito,47.07,3089.43
+1516,2023-08-02,168,Rio de Janeiro,Vestuário,Produto_12,313.12,8,Cartão de Débito,24.37,2504.96
+1517,2023-09-12,146,São Paulo,Vestuário,Produto_19,378.83,3,Cartão de Crédito,44.51,1136.49
+1518,2023-12-18,193,Rio de Janeiro,Livros,Produto_30,87.72,8,Boleto,32.25,701.76
+1519,2023-01-26,337,Recife,Livros,Produto_36,441.63,1,Boleto,16.12,441.63
+1520,2023-08-03,303,Curitiba,Decoração,Produto_18,437.2,4,Pix,21.01,1748.8
+1521,2023-04-29,499,Porto Alegre,Livros,Produto_35,24.33,3,Boleto,8.78,72.99
+1522,2023-10-22,317,Salvador,Vestuário,Produto_50,414.65,6,Pix,20.01,2487.9
+1523,2023-12-15,440,Salvador,Alimentos,Produto_16,73.15,7,Cartão de Débito,35.49,512.05
+1524,2023-06-04,138,Recife,Vestuário,Produto_12,174.21,4,Boleto,8.24,696.84
+1525,2023-12-05,199,Recife,Alimentos,Produto_49,374.32,7,Cartão de Débito,14.24,2620.24
+1526,2023-06-01,388,Recife,Vestuário,Produto_33,88.77,9,Boleto,22.16,798.93
+1527,2023-04-25,353,Rio de Janeiro,Alimentos,Produto_11,410.8,2,Pix,49.19,821.6
+1528,2023-01-14,321,Rio de Janeiro,Alimentos,Produto_45,417.75,3,Boleto,40.32,1253.25
+1529,2023-09-22,456,Curitiba,Alimentos,Produto_18,258.66,5,Boleto,38.01,1293.3
+1530,2023-06-01,122,Curitiba,Vestuário,Produto_19,13.13,3,Pix,10.23,39.39
+1531,2023-11-12,349,Porto Alegre,Decoração,Produto_29,150.65,8,Cartão de Débito,40.14,1205.2
+1532,2023-04-27,109,Salvador,Livros,Produto_1,312.29,8,Pix,40.34,2498.32
+1533,2023-02-01,345,Rio de Janeiro,Livros,Produto_37,490.78,8,Cartão de Débito,32.05,3926.24
+1534,2023-05-12,424,Rio de Janeiro,Decoração,Produto_6,319.59,9,Cartão de Crédito,49.57,2876.31
+1535,2023-10-31,199,Belo Horizonte,Decoração,Produto_32,137.3,4,Pix,19.64,549.2
+1536,2023-08-12,389,Rio de Janeiro,Decoração,Produto_32,320.66,5,,47.36,1603.3
+1537,2023-08-15,279,Salvador,Alimentos,Produto_7,274.59,5,Cartão de Débito,46.16,1372.95
+1538,2023-03-26,322,Rio de Janeiro,Eletrônicos,Produto_11,392.12,8,,5.52,3136.96
+1539,2023-08-27,493,Recife,Vestuário,Produto_5,62.42,7,Cartão de Débito,25.26,436.94
+1540,2023-10-20,349,Porto Alegre,Alimentos,Produto_1,382.9,9,,48.97,3446.1
+1541,2023-04-14,246,Salvador,Decoração,Produto_42,275.22,8,Pix,9.64,2201.76
+1542,2023-10-22,195,Rio de Janeiro,Eletrônicos,Produto_5,481.87,2,Boleto,29.65,963.74
+1543,2023-02-17,356,São Paulo,Eletrônicos,Produto_17,177.52,4,Cartão de Débito,49.05,710.08
+1544,2023-10-26,424,Recife,Eletrônicos,Produto_33,319.98,6,Pix,30.0,1919.88
+1545,2023-08-14,103,Curitiba,Decoração,Produto_45,466.69,2,Cartão de Crédito,13.54,933.38
+1546,2023-12-03,115,Recife,Alimentos,Produto_31,60.23,7,Pix,31.2,421.61
+1547,2023-06-16,379,Porto Alegre,Alimentos,Produto_34,469.24,3,Cartão de Débito,14.2,1407.72
+1548,2023-06-19,435,Rio de Janeiro,Vestuário,Produto_4,347.06,3,Cartão de Crédito,28.39,1041.18
+1549,2023-07-19,346,Curitiba,Livros,Produto_23,43.24,2,Pix,8.33,86.48
+1550,2023-12-04,357,São Paulo,Decoração,Produto_21,157.47,8,Cartão de Débito,32.25,1259.76
+1551,2023-09-19,483,Belo Horizonte,Alimentos,Produto_36,357.0,6,Boleto,28.26,2142.0
+1552,2023-08-01,259,Rio de Janeiro,Decoração,Produto_43,43.0,1,Cartão de Débito,38.31,43.0
+1553,2023-09-23,439,Salvador,Alimentos,Produto_28,295.26,1,Boleto,33.38,295.26
+1554,2023-06-15,251,Curitiba,Decoração,Produto_19,179.48,7,Cartão de Débito,29.73,1256.36
+1555,2023-08-30,495,São Paulo,Eletrônicos,Produto_34,314.25,8,Cartão de Crédito,36.04,2514.0
+1556,2023-03-24,277,Curitiba,Vestuário,Produto_22,32.41,5,Pix,11.48,162.05
+1557,2023-11-18,262,Salvador,Livros,Produto_42,437.05,5,Cartão de Crédito,31.79,2185.25
+1558,2023-10-19,479,Recife,Eletrônicos,Produto_11,487.01,4,Cartão de Débito,12.74,1948.04
+1559,2023-06-20,132,Curitiba,Decoração,Produto_41,484.75,6,Cartão de Crédito,46.65,2908.5
+1560,2023-02-08,278,Belo Horizonte,Alimentos,Produto_10,377.33,6,Cartão de Crédito,8.08,2263.98
+1561,2023-06-18,200,Rio de Janeiro,Livros,Produto_25,73.74,3,Boleto,24.37,221.22
+1562,2023-12-22,367,São Paulo,Vestuário,Produto_3,381.55,9,Cartão de Crédito,36.31,3433.95
+1563,2023-11-01,422,Salvador,Livros,Produto_41,22.05,7,Pix,25.61,154.35
+1564,2023-12-30,164,Recife,Vestuário,Produto_20,20.84,1,Cartão de Crédito,9.14,20.84
+1565,2023-03-07,267,São Paulo,Livros,Produto_48,168.57,7,Pix,29.9,1179.99
+1566,2023-04-06,429,Porto Alegre,Vestuário,Produto_40,249.44,5,Boleto,33.87,1247.2
+1567,2023-02-13,142,Recife,Vestuário,Produto_36,387.5,5,Pix,36.67,1937.5
+1568,2023-03-15,143,Rio de Janeiro,Livros,Produto_45,344.81,2,Cartão de Débito,21.8,689.62
+1569,2023-09-12,384,Salvador,Livros,Produto_10,228.49,4,Boleto,30.36,913.96
+1570,2023-04-27,496,Salvador,Vestuário,Produto_28,144.08,6,Cartão de Crédito,25.28,864.48
+1571,2023-10-22,111,Salvador,Decoração,Produto_30,498.59,7,Pix,35.24,3490.13
+1572,2023-06-25,194,Belo Horizonte,Livros,Produto_7,218.83,5,Boleto,31.26,1094.15
+1573,2023-06-04,401,Belo Horizonte,Eletrônicos,Produto_4,231.18,9,Boleto,28.66,2080.62
+1574,2023-09-21,485,Belo Horizonte,Decoração,Produto_17,90.18,3,Boleto,16.23,270.54
+1575,2023-11-01,352,São Paulo,Alimentos,Produto_45,399.46,1,Cartão de Débito,5.09,399.46
+1576,2023-02-18,341,São Paulo,Alimentos,Produto_19,349.9,4,Boleto,12.83,1399.6
+1577,2023-06-12,134,Belo Horizonte,Decoração,Produto_37,118.18,9,Boleto,10.27,1063.62
+1578,2023-11-11,314,São Paulo,Decoração,Produto_3,50.37,4,Cartão de Débito,25.21,201.48
+1579,2023-04-20,436,Salvador,Vestuário,Produto_46,343.44,2,Pix,32.55,686.88
+1580,2023-05-03,189,Salvador,Decoração,Produto_47,330.71,5,Cartão de Crédito,14.59,1653.55
+1581,2023-02-02,363,Recife,Vestuário,Produto_16,143.9,3,Pix,47.26,431.7
+1582,2023-12-23,192,Salvador,Decoração,Produto_46,475.92,9,Pix,5.3,4283.28
+1583,2023-08-13,189,Rio de Janeiro,Eletrônicos,Produto_4,84.02,4,Cartão de Crédito,39.75,336.08
+1584,2023-03-01,214,São Paulo,Decoração,Produto_39,221.84,6,Cartão de Crédito,33.13,1331.04
+1585,2023-06-05,204,Belo Horizonte,Livros,Produto_32,472.37,2,Cartão de Crédito,21.81,944.74
+1586,2023-02-13,490,Rio de Janeiro,Eletrônicos,Produto_13,215.67,6,Pix,7.27,1294.02
+1587,2023-06-15,295,Curitiba,Livros,Produto_36,322.88,3,Cartão de Débito,33.24,968.64
+1588,2023-01-02,413,São Paulo,Vestuário,Produto_3,204.82,9,Cartão de Crédito,22.35,1843.38
+1589,2023-05-28,213,Curitiba,Alimentos,Produto_27,144.37,2,Cartão de Débito,47.13,288.74
+1590,2023-03-19,174,Salvador,Livros,Produto_49,492.15,9,Boleto,29.39,4429.35
+1591,2023-07-07,475,Rio de Janeiro,Alimentos,Produto_45,210.57,5,Pix,47.28,1052.85
+1592,2023-03-16,316,Porto Alegre,Alimentos,Produto_41,448.11,8,Cartão de Crédito,14.92,3584.88
+1593,2023-09-05,376,Recife,Vestuário,Produto_7,122.68,2,Pix,37.66,245.36
+1594,2023-08-14,348,Belo Horizonte,Vestuário,Produto_26,114.42,6,,32.78,686.52
+1595,2023-01-16,263,Porto Alegre,Eletrônicos,Produto_31,25.26,3,Cartão de Crédito,38.27,75.78
+1596,2023-02-07,493,Porto Alegre,Alimentos,Produto_3,329.32,5,Pix,14.66,1646.6
+1597,2023-08-21,456,Belo Horizonte,Alimentos,Produto_38,190.58,8,Cartão de Débito,34.92,1524.64
+1598,2023-03-12,291,São Paulo,Alimentos,Produto_36,433.54,1,Cartão de Crédito,27.41,433.54
+1599,2023-05-13,326,Salvador,Alimentos,Produto_42,241.87,5,Pix,38.43,1209.35
+1600,2023-04-16,276,São Paulo,Decoração,Produto_2,484.41,3,Cartão de Débito,19.72,1453.23
+1601,2023-06-25,198,Belo Horizonte,Livros,Produto_15,100.91,4,Cartão de Crédito,45.05,403.64
+1602,2023-02-17,135,Rio de Janeiro,Alimentos,Produto_50,435.63,2,Pix,8.79,871.26
+1603,2023-01-14,195,Recife,Vestuário,Produto_15,390.53,9,Cartão de Débito,41.32,3514.77
+1604,2023-08-15,251,Belo Horizonte,Vestuário,Produto_21,387.75,3,Boleto,43.76,1163.25
+1605,2023-09-17,250,Recife,Alimentos,Produto_38,423.94,2,Pix,41.78,847.88
+1606,2023-02-14,289,Curitiba,Livros,Produto_47,382.9,9,Cartão de Crédito,28.07,3446.1
+1607,2023-01-30,323,São Paulo,Livros,Produto_37,316.85,7,Pix,24.73,2217.95
+1608,2023-06-10,136,São Paulo,Decoração,Produto_22,74.31,6,Cartão de Crédito,49.83,445.86
+1609,2023-03-14,367,Porto Alegre,Livros,Produto_15,25.94,1,Pix,15.31,25.94
+1610,2023-11-17,468,Salvador,Livros,Produto_26,461.22,5,,29.61,2306.1
+1611,2023-01-09,282,São Paulo,Livros,Produto_10,312.16,3,Cartão de Crédito,35.18,936.48
+1612,2023-08-01,112,Porto Alegre,Decoração,Produto_2,400.3,1,Cartão de Débito,36.54,400.3
+1613,2023-10-27,378,Rio de Janeiro,Decoração,Produto_14,245.95,4,Cartão de Crédito,14.18,983.8
+1614,2023-02-02,316,Belo Horizonte,Decoração,Produto_4,67.48,2,Cartão de Crédito,34.43,134.96
+1615,2023-07-10,454,Salvador,Decoração,Produto_9,71.34,2,Cartão de Crédito,41.83,142.68
+1616,2023-11-10,460,Recife,Livros,Produto_47,345.93,3,,7.25,1037.79
+1617,2023-07-01,385,Recife,Alimentos,Produto_49,220.85,8,Cartão de Débito,46.02,1766.8
+1618,2023-10-07,372,São Paulo,Eletrônicos,Produto_22,108.26,8,Cartão de Débito,6.33,866.08
+1619,2023-08-08,468,São Paulo,Eletrônicos,Produto_32,250.88,7,Cartão de Crédito,21.02,1756.16
+1620,2023-04-19,161,Curitiba,Livros,Produto_21,41.46,6,Boleto,5.71,248.76
+1621,2023-07-02,183,Curitiba,Decoração,Produto_8,295.17,9,,8.47,2656.53
+1622,2023-10-24,467,São Paulo,Livros,Produto_48,141.81,4,Boleto,46.0,567.24
+1623,2023-08-07,316,Salvador,Livros,Produto_23,400.8,1,Cartão de Débito,20.97,400.8
+1624,2023-10-31,441,Recife,Decoração,Produto_47,162.08,8,Cartão de Crédito,24.11,1296.64
+1625,2023-11-25,496,Recife,Decoração,Produto_38,233.06,7,Cartão de Crédito,14.69,1631.42
+1626,2023-10-07,286,Rio de Janeiro,Vestuário,Produto_43,15.69,7,Cartão de Débito,31.87,109.83
+1627,2023-04-12,118,Porto Alegre,Vestuário,Produto_27,45.5,3,Cartão de Crédito,31.77,136.5
+1628,2023-06-26,276,Porto Alegre,Vestuário,Produto_2,202.32,4,Cartão de Crédito,21.75,809.28
+1629,2023-01-01,199,Curitiba,Alimentos,Produto_16,245.17,9,Pix,19.99,2206.53
+1630,2023-01-12,495,Salvador,Decoração,Produto_15,304.01,6,Cartão de Crédito,44.82,1824.06
+1631,2023-07-20,332,Rio de Janeiro,Alimentos,Produto_44,152.91,5,,22.25,764.55
+1632,2023-09-25,175,São Paulo,Alimentos,Produto_3,350.54,3,Boleto,27.21,1051.62
+1633,2023-11-01,364,Salvador,Livros,Produto_9,431.46,9,Boleto,17.75,3883.14
+1634,2023-12-18,383,Rio de Janeiro,Decoração,Produto_18,392.13,5,Cartão de Débito,40.4,1960.65
+1635,2023-06-09,305,Salvador,Vestuário,Produto_43,29.41,5,Cartão de Débito,22.89,147.05
+1636,2023-06-01,322,Rio de Janeiro,Livros,Produto_26,245.45,4,Pix,28.11,981.8
+1637,2023-01-11,483,Porto Alegre,Alimentos,Produto_34,61.42,4,Pix,16.4,245.68
+1638,2023-03-25,151,Porto Alegre,Alimentos,Produto_49,128.6,1,Cartão de Crédito,49.44,128.6
+1639,2023-08-17,438,Recife,Livros,Produto_4,493.46,7,Cartão de Crédito,18.12,3454.22
+1640,2023-10-13,466,Recife,Decoração,Produto_19,79.82,9,Boleto,39.68,718.38
+1641,2023-09-09,243,Recife,Decoração,Produto_17,254.46,3,Boleto,24.24,763.38
+1642,2023-04-22,472,Belo Horizonte,Livros,Produto_18,312.9,2,Cartão de Débito,14.28,625.8
+1643,2023-06-21,168,Salvador,Alimentos,Produto_29,354.21,3,Pix,40.99,1062.63
+1644,2023-05-14,198,Belo Horizonte,Vestuário,Produto_14,284.23,1,Pix,20.01,284.23
+1645,2023-09-13,495,Belo Horizonte,Alimentos,Produto_22,14.79,6,Boleto,43.93,88.74
+1646,2023-09-10,124,Rio de Janeiro,Vestuário,Produto_21,169.97,7,Pix,46.19,1189.79
+1647,2023-02-14,478,Recife,Decoração,Produto_5,263.68,2,Cartão de Crédito,43.69,527.36
+1648,2023-01-18,152,Salvador,Eletrônicos,Produto_36,53.05,8,Cartão de Crédito,6.58,424.4
+1649,2023-02-18,250,Salvador,Alimentos,Produto_21,181.81,6,Boleto,40.43,1090.86
+1650,2023-09-21,243,Recife,Decoração,Produto_15,26.27,4,Pix,23.51,105.08
+1651,2023-03-08,156,Curitiba,Decoração,Produto_27,48.5,5,Cartão de Débito,44.32,242.5
+1652,2023-10-19,138,Rio de Janeiro,Livros,Produto_10,204.49,8,Pix,33.71,1635.92
+1653,2023-10-31,208,Salvador,Decoração,Produto_11,75.03,3,Cartão de Débito,42.51,225.09
+1654,2023-09-16,280,São Paulo,Livros,Produto_25,288.1,3,Cartão de Crédito,27.47,864.3
+1655,2023-07-24,141,Curitiba,Eletrônicos,Produto_30,347.84,4,Pix,29.08,1391.36
+1656,2023-09-25,285,São Paulo,Alimentos,Produto_40,402.29,1,Boleto,11.5,402.29
+1657,2023-02-25,497,São Paulo,Decoração,Produto_49,108.07,9,Cartão de Crédito,40.28,972.63
+1658,2023-01-11,322,Recife,Vestuário,Produto_5,92.07,8,Boleto,23.87,736.56
+1659,2023-07-22,221,Curitiba,Alimentos,Produto_18,61.24,8,Cartão de Crédito,27.5,489.92
+1660,2023-11-09,232,Salvador,Decoração,Produto_4,321.85,6,Cartão de Débito,40.33,1931.1
+1661,2023-09-14,262,Belo Horizonte,Livros,Produto_13,356.17,7,Cartão de Crédito,31.95,2493.19
+1662,2023-01-12,314,Rio de Janeiro,Livros,Produto_9,25.48,6,Boleto,14.05,152.88
+1663,2023-07-18,320,Recife,Alimentos,Produto_33,468.74,9,Pix,31.56,4218.66
+1664,2023-06-01,334,Porto Alegre,Alimentos,Produto_43,35.47,3,Boleto,23.34,106.41
+1665,2023-12-10,430,Rio de Janeiro,Alimentos,Produto_13,275.24,3,Boleto,26.13,825.72
+1666,2023-10-29,245,São Paulo,Vestuário,Produto_31,357.44,3,,6.27,1072.32
+1667,2023-11-10,338,Curitiba,Livros,Produto_21,436.77,3,Pix,14.45,1310.31
+1668,2023-11-15,175,Curitiba,Decoração,Produto_2,359.9,9,Cartão de Crédito,17.65,3239.1
+1669,2023-05-07,108,Belo Horizonte,Alimentos,Produto_6,402.85,4,Cartão de Crédito,37.08,1611.4
+1670,2023-08-26,173,Porto Alegre,Decoração,Produto_47,176.33,7,Pix,5.52,1234.31
+1671,2023-08-09,352,Salvador,Decoração,Produto_9,409.26,9,Cartão de Crédito,23.39,3683.34
+1672,2023-06-04,329,Recife,Alimentos,Produto_24,49.26,7,Pix,46.58,344.82
+1673,2023-01-23,106,Porto Alegre,Livros,Produto_20,448.46,9,Cartão de Débito,10.03,4036.14
+1674,2023-03-02,273,Porto Alegre,Livros,Produto_44,278.32,3,Pix,28.24,834.96
+1675,2023-04-18,240,Salvador,Livros,Produto_36,410.48,4,Boleto,40.39,1641.92
+1676,2023-10-05,267,Curitiba,Vestuário,Produto_37,231.64,8,Boleto,47.41,1853.12
+1677,2023-01-15,269,São Paulo,Eletrônicos,Produto_7,325.35,6,Cartão de Crédito,38.6,1952.1
+1678,2023-06-04,492,Rio de Janeiro,Alimentos,Produto_34,267.94,5,Pix,37.43,1339.7
+1679,2023-11-04,382,São Paulo,Decoração,Produto_16,368.48,4,Cartão de Crédito,42.19,1473.92
+1680,2023-04-18,221,Rio de Janeiro,Vestuário,Produto_4,50.0,8,Boleto,25.08,400.0
+1681,2023-11-02,293,Recife,Decoração,Produto_15,39.57,1,Pix,41.26,39.57
+1682,2023-01-11,104,São Paulo,Alimentos,Produto_47,131.08,9,Boleto,5.36,1179.72
+1683,2023-10-06,128,Belo Horizonte,Livros,Produto_36,88.18,1,Boleto,46.61,88.18
+1684,2023-05-11,264,Salvador,Livros,Produto_48,437.17,8,Cartão de Débito,24.95,3497.36
+1685,2023-06-29,438,Salvador,Eletrônicos,Produto_8,117.41,4,Boleto,29.9,469.64
+1686,2023-08-27,235,Salvador,Decoração,Produto_28,488.17,9,Pix,16.47,4393.53
+1687,2023-06-19,464,Curitiba,Alimentos,Produto_40,175.08,5,Pix,38.41,875.4
+1688,2023-06-30,420,Rio de Janeiro,Livros,Produto_23,99.24,3,Pix,8.45,297.72
+1689,2023-11-24,441,Porto Alegre,Livros,Produto_20,396.95,9,Boleto,44.27,3572.55
+1690,2023-12-29,244,Curitiba,Alimentos,Produto_33,332.77,9,Pix,42.27,2994.93
+1691,2023-04-13,426,Salvador,Alimentos,Produto_43,254.12,4,Pix,14.72,1016.48
+1692,2023-04-28,316,Curitiba,Eletrônicos,Produto_28,282.13,4,Pix,41.42,1128.52
+1693,2023-02-01,400,Porto Alegre,Livros,Produto_13,362.41,8,Cartão de Débito,40.39,2899.28
+1694,2023-03-11,231,Rio de Janeiro,Livros,Produto_3,121.94,2,Pix,33.45,243.88
+1695,2023-12-16,391,São Paulo,Livros,Produto_50,498.2,9,Cartão de Crédito,21.81,4483.8
+1696,2023-09-01,169,São Paulo,Eletrônicos,Produto_26,487.65,6,Boleto,17.22,2925.9
+1697,2023-06-02,351,Curitiba,Alimentos,Produto_40,328.66,9,Pix,15.43,2957.94
+1698,2023-08-24,374,São Paulo,Alimentos,Produto_28,107.78,8,Cartão de Crédito,19.34,862.24
+1699,2023-12-29,463,Rio de Janeiro,Livros,Produto_19,343.31,7,Cartão de Crédito,45.66,2403.17
+1700,2023-10-01,281,Porto Alegre,Livros,Produto_3,45.38,1,Cartão de Débito,8.49,45.38
+1701,2023-09-05,266,Belo Horizonte,Vestuário,Produto_17,25.02,3,Cartão de Débito,42.3,75.06
+1702,2023-04-17,190,Rio de Janeiro,Eletrônicos,Produto_32,136.26,2,,20.7,272.52
+1703,2023-05-14,301,Recife,Decoração,Produto_25,236.69,5,Boleto,28.47,1183.45
+1704,2023-09-13,445,Curitiba,Vestuário,Produto_46,435.45,5,Pix,40.75,2177.25
+1705,2023-01-23,118,Porto Alegre,Alimentos,Produto_2,366.31,5,Cartão de Débito,44.8,1831.55
+1706,2023-05-07,138,Belo Horizonte,Decoração,Produto_1,373.93,4,Cartão de Débito,20.52,1495.72
+1707,2023-10-10,225,Belo Horizonte,Eletrônicos,Produto_28,218.49,5,Boleto,25.78,1092.45
+1708,2023-06-19,272,São Paulo,Decoração,Produto_15,179.51,3,Boleto,23.65,538.53
+1709,2023-02-11,240,Porto Alegre,Decoração,Produto_1,191.81,1,Boleto,5.6,191.81
+1710,2023-11-21,341,Belo Horizonte,Decoração,Produto_44,493.95,5,Cartão de Crédito,18.32,2469.75
+1711,2023-08-25,319,Curitiba,Vestuário,Produto_24,29.65,9,Boleto,25.66,266.85
+1712,2023-04-10,225,Belo Horizonte,Vestuário,Produto_49,434.85,9,Boleto,23.5,3913.65
+1713,2023-10-17,157,Curitiba,Alimentos,Produto_5,293.55,4,Pix,37.49,1174.2
+1714,2023-02-08,247,Porto Alegre,Eletrônicos,Produto_39,224.92,3,Cartão de Crédito,22.32,674.76
+1715,2023-04-28,416,São Paulo,Livros,Produto_32,365.38,1,Boleto,27.02,365.38
+1716,2023-02-22,482,Belo Horizonte,Livros,Produto_26,248.47,2,Boleto,24.33,496.94
+1717,2023-07-01,460,Belo Horizonte,Eletrônicos,Produto_22,437.98,8,Pix,38.33,3503.84
+1718,2023-06-14,100,São Paulo,Eletrônicos,Produto_1,451.34,1,Boleto,43.83,451.34
+1719,2023-05-23,486,Rio de Janeiro,Vestuário,Produto_32,216.64,8,Pix,28.94,1733.12
+1720,2023-09-14,447,Rio de Janeiro,Eletrônicos,Produto_49,145.65,7,Cartão de Débito,40.52,1019.55
+1721,2023-05-06,289,Curitiba,Eletrônicos,Produto_43,300.25,8,Pix,18.36,2402.0
+1722,2023-11-10,290,São Paulo,Eletrônicos,Produto_24,457.06,6,,29.36,2742.36
+1723,2023-01-30,468,Curitiba,Decoração,Produto_21,113.22,9,Boleto,20.54,1018.98
+1724,2023-04-27,411,São Paulo,Eletrônicos,Produto_25,315.25,3,Pix,23.64,945.75
+1725,2023-03-20,216,Salvador,Alimentos,Produto_44,319.46,4,Cartão de Débito,37.96,1277.84
+1726,2023-12-22,233,Curitiba,Vestuário,Produto_19,369.23,6,Cartão de Crédito,44.67,2215.38
+1727,2023-03-20,157,Porto Alegre,Eletrônicos,Produto_36,74.47,8,Cartão de Débito,10.47,595.76
+1728,2023-04-03,143,São Paulo,Vestuário,Produto_8,360.75,5,Cartão de Débito,33.56,1803.75
+1729,2023-10-16,272,Salvador,Alimentos,Produto_30,455.43,3,Pix,31.2,1366.29
+1730,2023-02-07,259,São Paulo,Livros,Produto_28,98.04,6,,10.33,588.24
+1731,2023-01-05,272,Porto Alegre,Vestuário,Produto_21,126.4,4,Boleto,14.54,505.6
+1732,2023-10-04,416,Rio de Janeiro,Livros,Produto_4,485.98,9,Pix,19.0,4373.82
+1733,2023-03-04,402,São Paulo,Livros,Produto_35,98.68,3,Boleto,12.51,296.04
+1734,2023-12-31,248,Curitiba,Vestuário,Produto_46,428.65,4,Boleto,15.97,1714.6
+1735,2023-01-25,179,Recife,Alimentos,Produto_41,251.22,7,Cartão de Crédito,17.04,1758.54
+1736,2023-08-03,473,Belo Horizonte,Alimentos,Produto_8,131.14,7,Cartão de Crédito,20.11,917.98
+1737,2023-04-20,312,Porto Alegre,Livros,Produto_43,436.67,4,Cartão de Crédito,38.72,1746.68
+1738,2023-08-02,302,Recife,Vestuário,Produto_31,228.2,6,Boleto,30.74,1369.2
+1739,2023-01-27,351,Porto Alegre,Alimentos,Produto_39,262.26,3,Pix,49.38,786.78
+1740,2023-06-27,328,Curitiba,Livros,Produto_8,186.02,6,Cartão de Crédito,23.66,1116.12
+1741,2023-09-15,263,Recife,Decoração,Produto_26,300.55,2,Pix,38.92,601.1
+1742,2023-06-09,326,Belo Horizonte,Vestuário,Produto_38,90.13,8,Cartão de Débito,44.22,721.04
+1743,2023-02-13,246,São Paulo,Alimentos,Produto_3,201.63,2,Pix,35.55,403.26
+1744,2023-10-30,119,Porto Alegre,Vestuário,Produto_2,485.01,7,Cartão de Débito,23.53,3395.07
+1745,2023-06-13,146,Rio de Janeiro,Eletrônicos,Produto_49,136.49,9,Cartão de Débito,38.91,1228.41
+1746,2023-01-03,332,Rio de Janeiro,Alimentos,Produto_11,331.8,1,Pix,14.17,331.8
+1747,2023-05-24,404,Recife,Vestuário,Produto_42,169.34,8,Cartão de Débito,19.74,1354.72
+1748,2023-05-08,113,Belo Horizonte,Decoração,Produto_26,389.0,7,Boleto,29.6,2723.0
+1749,2023-04-16,242,São Paulo,Vestuário,Produto_39,74.13,6,Cartão de Débito,30.89,444.78
+1750,2023-04-17,100,Recife,Vestuário,Produto_14,485.21,6,Pix,6.0,2911.26
+1751,2023-06-22,472,Salvador,Decoração,Produto_31,232.36,6,Boleto,47.53,1394.16
+1752,2023-01-21,153,Salvador,Decoração,Produto_32,125.66,9,Boleto,36.35,1130.94
+1753,2023-06-12,473,Porto Alegre,Alimentos,Produto_4,46.01,2,Boleto,27.31,92.02
+1754,2023-02-12,358,Belo Horizonte,Eletrônicos,Produto_46,93.18,1,Pix,46.99,93.18
+1755,2023-04-20,243,Recife,Decoração,Produto_1,264.69,6,Pix,24.76,1588.14
+1756,2023-07-27,111,Belo Horizonte,Decoração,Produto_35,175.13,8,Cartão de Débito,49.12,1401.04
+1757,2023-02-16,429,Curitiba,Alimentos,Produto_4,416.15,3,Pix,28.05,1248.45
+1758,2023-08-26,323,Curitiba,Vestuário,Produto_16,221.13,1,Pix,10.14,221.13
+1759,2023-06-12,371,Porto Alegre,Vestuário,Produto_15,131.87,9,Cartão de Débito,39.42,1186.83
+1760,2023-01-08,457,Porto Alegre,Vestuário,Produto_36,312.4,1,Pix,35.55,312.4
+1761,2023-07-15,255,Recife,Vestuário,Produto_22,356.32,3,Cartão de Crédito,39.78,1068.96
+1762,2023-08-21,472,Curitiba,Decoração,Produto_43,91.85,8,Boleto,47.81,734.8
+1763,2023-12-23,107,Salvador,Vestuário,Produto_45,92.13,3,Pix,39.94,276.39
+1764,2023-04-28,221,Curitiba,Alimentos,Produto_26,27.97,4,Boleto,32.51,111.88
+1765,2023-09-10,447,Curitiba,Decoração,Produto_37,370.84,8,Pix,43.58,2966.72
+1766,2023-01-08,263,Porto Alegre,Eletrônicos,Produto_41,335.26,1,Cartão de Crédito,35.3,335.26
+1767,2023-01-01,189,Porto Alegre,Alimentos,Produto_47,242.57,6,Cartão de Crédito,23.37,1455.42
+1768,2023-10-17,235,Belo Horizonte,Livros,Produto_34,423.64,1,Cartão de Crédito,44.85,423.64
+1769,2023-01-26,285,Rio de Janeiro,Eletrônicos,Produto_34,404.78,1,Cartão de Débito,14.99,404.78
+1770,2023-09-09,415,Salvador,Livros,Produto_31,296.82,8,Boleto,37.16,2374.56
+1771,2023-03-19,277,Salvador,Eletrônicos,Produto_9,435.45,4,,44.67,1741.8
+1772,2023-03-22,127,Curitiba,Eletrônicos,Produto_6,110.86,1,Cartão de Crédito,37.91,110.86
+1773,2023-02-17,319,Rio de Janeiro,Vestuário,Produto_2,64.84,7,Cartão de Débito,36.38,453.88
+1774,2023-09-06,456,Recife,Vestuário,Produto_29,142.18,5,Cartão de Crédito,38.87,710.9
+1775,2023-04-01,140,Rio de Janeiro,Vestuário,Produto_17,37.97,5,,25.93,189.85
+1776,2023-06-29,327,Curitiba,Alimentos,Produto_45,270.27,1,Boleto,44.34,270.27
+1777,2023-03-30,291,Porto Alegre,Eletrônicos,Produto_50,468.94,6,Cartão de Débito,14.15,2813.64
+1778,2023-03-09,244,Porto Alegre,Decoração,Produto_6,29.28,9,Boleto,10.73,263.52
+1779,2023-01-19,300,Porto Alegre,Decoração,Produto_12,69.83,9,Cartão de Crédito,17.85,628.47
+1780,2023-06-30,311,São Paulo,Decoração,Produto_6,231.58,8,Pix,28.92,1852.64
+1781,2023-06-04,319,Salvador,Alimentos,Produto_30,467.6,5,Cartão de Débito,27.98,2338.0
+1782,2023-07-26,339,Salvador,Eletrônicos,Produto_1,164.92,1,Pix,41.93,164.92
+1783,2023-01-09,496,Porto Alegre,Vestuário,Produto_32,258.55,9,Cartão de Crédito,23.21,2326.95
+1784,2023-07-13,145,Porto Alegre,Livros,Produto_2,30.37,1,Cartão de Crédito,26.8,30.37
+1785,2023-10-29,134,Porto Alegre,Decoração,Produto_12,82.69,8,Cartão de Débito,5.6,661.52
+1786,2023-04-06,352,Curitiba,Alimentos,Produto_50,493.45,5,Boleto,23.44,2467.25
+1787,2023-04-06,489,São Paulo,Decoração,Produto_33,482.91,3,Boleto,34.15,1448.73
+1788,2023-07-10,181,São Paulo,Vestuário,Produto_9,12.42,7,Pix,5.7,86.94
+1789,2023-01-27,470,São Paulo,Vestuário,Produto_3,476.39,7,Pix,17.64,3334.73
+1790,2023-04-05,355,Rio de Janeiro,Eletrônicos,Produto_28,323.17,9,Boleto,14.36,2908.53
+1791,2023-10-27,296,Salvador,Decoração,Produto_50,435.28,7,Cartão de Crédito,6.89,3046.96
+1792,2023-09-07,402,Porto Alegre,Vestuário,Produto_4,232.82,3,Cartão de Crédito,26.57,698.46
+1793,2023-02-24,109,Recife,Vestuário,Produto_39,262.64,1,Cartão de Débito,13.18,262.64
+1794,2023-03-31,411,Rio de Janeiro,Alimentos,Produto_7,249.53,8,Cartão de Débito,38.44,1996.24
+1795,2023-03-01,385,Porto Alegre,Alimentos,Produto_25,336.76,3,Cartão de Débito,43.16,1010.28
+1796,2023-01-04,341,Recife,Alimentos,Produto_19,78.43,8,Boleto,29.55,627.44
+1797,2023-06-19,350,Salvador,Decoração,Produto_39,24.69,8,Cartão de Débito,49.18,197.52
+1798,2023-04-19,464,Rio de Janeiro,Eletrônicos,Produto_10,160.89,5,,25.27,804.45
+1799,2023-12-03,104,São Paulo,Vestuário,Produto_8,355.29,1,Pix,28.1,355.29
+1800,2023-04-23,218,Porto Alegre,Alimentos,Produto_7,108.91,7,Cartão de Crédito,49.51,762.37
+1801,2023-05-16,388,Belo Horizonte,Vestuário,Produto_11,339.98,5,Pix,15.42,1699.9
+1802,2023-09-24,473,Recife,Decoração,Produto_19,485.26,8,Cartão de Crédito,47.41,3882.08
+1803,2023-11-11,164,Rio de Janeiro,Livros,Produto_45,56.01,9,Pix,6.93,504.09
+1804,2023-04-17,245,Recife,Alimentos,Produto_38,339.58,7,Cartão de Débito,25.09,2377.06
+1805,2023-09-04,323,Belo Horizonte,Eletrônicos,Produto_50,227.44,7,Cartão de Débito,8.15,1592.08
+1806,2023-12-30,338,Curitiba,Alimentos,Produto_35,435.39,1,Cartão de Crédito,37.82,435.39
+1807,2023-10-07,276,Recife,Alimentos,Produto_8,96.8,4,Pix,32.38,387.2
+1808,2023-11-28,366,São Paulo,Alimentos,Produto_29,349.39,2,Cartão de Débito,36.8,698.78
+1809,2023-04-29,440,Porto Alegre,Decoração,Produto_42,420.68,2,Pix,21.85,841.36
+1810,2023-02-15,381,São Paulo,Decoração,Produto_35,472.86,2,Cartão de Crédito,21.63,945.72
+1811,2023-01-31,162,Porto Alegre,Alimentos,Produto_1,344.79,4,Boleto,7.04,1379.16
+1812,2023-06-22,316,Porto Alegre,Livros,Produto_9,253.62,1,Boleto,20.75,253.62
+1813,2023-12-31,441,Salvador,Alimentos,Produto_39,312.75,4,Boleto,46.82,1251.0
+1814,2023-04-16,414,São Paulo,Alimentos,Produto_2,435.76,2,Pix,22.07,871.52
+1815,2023-02-23,382,Curitiba,Vestuário,Produto_49,289.6,5,Cartão de Débito,42.41,1448.0
+1816,2023-06-29,276,Porto Alegre,Alimentos,Produto_24,24.89,3,Cartão de Débito,42.9,74.67
+1817,2023-07-10,197,Porto Alegre,Eletrônicos,Produto_25,466.16,8,Pix,21.8,3729.28
+1818,2023-11-10,204,Rio de Janeiro,Livros,Produto_17,347.87,4,Cartão de Crédito,33.44,1391.48
+1819,2023-07-18,198,Recife,Decoração,Produto_50,341.49,1,Cartão de Débito,9.29,341.49
+1820,2023-03-24,484,Salvador,Decoração,Produto_39,115.68,1,Cartão de Crédito,9.67,115.68
+1821,2023-05-26,410,São Paulo,Decoração,Produto_32,332.85,3,Pix,7.19,998.55
+1822,2023-07-19,105,Rio de Janeiro,Eletrônicos,Produto_14,202.99,9,Boleto,31.15,1826.91
+1823,2023-09-29,296,Recife,Vestuário,Produto_18,329.1,7,Pix,24.17,2303.7
+1824,2023-10-08,450,São Paulo,Alimentos,Produto_19,62.23,2,Boleto,29.66,124.46
+1825,2023-08-29,232,Porto Alegre,Alimentos,Produto_9,332.34,9,Boleto,28.45,2991.06
+1826,2023-02-08,457,Curitiba,Eletrônicos,Produto_6,499.71,2,Boleto,20.76,999.42
+1827,2023-01-03,358,Salvador,Alimentos,Produto_32,33.62,3,Cartão de Crédito,35.49,100.86
+1828,2023-09-13,122,Recife,Alimentos,Produto_5,488.82,2,Cartão de Crédito,39.13,977.64
+1829,2023-05-04,152,Rio de Janeiro,Decoração,Produto_37,209.38,3,Cartão de Débito,5.66,628.14
+1830,2023-11-13,264,Salvador,Decoração,Produto_8,436.67,6,Boleto,14.33,2620.02
+1831,2023-08-31,301,Belo Horizonte,Decoração,Produto_11,393.37,9,Cartão de Crédito,37.1,3540.33
+1832,2023-01-21,182,Belo Horizonte,Vestuário,Produto_23,287.84,9,Pix,22.4,2590.56
+1833,2023-01-06,244,Salvador,Decoração,Produto_43,371.84,7,Boleto,34.81,2602.88
+1834,2023-08-02,184,Porto Alegre,Livros,Produto_8,440.47,3,Pix,20.61,1321.41
+1835,2023-04-28,177,Rio de Janeiro,Decoração,Produto_25,208.03,4,Cartão de Débito,22.58,832.12
+1836,2023-07-29,465,Rio de Janeiro,Livros,Produto_1,170.25,6,Cartão de Débito,12.14,1021.5
+1837,2023-07-24,100,Belo Horizonte,Vestuário,Produto_27,337.12,5,Boleto,16.62,1685.6
+1838,2023-05-23,150,Salvador,Vestuário,Produto_28,405.84,2,Cartão de Débito,32.24,811.68
+1839,2023-04-17,272,Salvador,Livros,Produto_15,383.52,6,Cartão de Débito,24.49,2301.12
+1840,2023-12-21,304,Recife,Alimentos,Produto_42,400.93,3,Boleto,39.84,1202.79
+1841,2023-01-07,359,Curitiba,Eletrônicos,Produto_24,223.44,8,Cartão de Crédito,43.37,1787.52
+1842,2023-11-16,468,São Paulo,Vestuário,Produto_47,410.74,2,Boleto,29.37,821.48
+1843,2023-10-11,387,Belo Horizonte,Livros,Produto_47,68.9,1,Pix,39.12,68.9
+1844,2023-07-19,133,São Paulo,Livros,Produto_20,276.8,9,Cartão de Crédito,18.81,2491.2
+1845,2023-05-15,447,Salvador,Alimentos,Produto_38,12.82,3,Cartão de Débito,23.67,38.46
+1846,2023-08-23,194,Curitiba,Livros,Produto_49,169.05,1,Boleto,37.07,169.05
+1847,2023-10-16,171,Belo Horizonte,Livros,Produto_4,189.57,7,Boleto,22.38,1326.99
+1848,2023-12-03,138,Belo Horizonte,Livros,Produto_12,204.12,5,Boleto,31.48,1020.6
+1849,2023-06-29,253,São Paulo,Decoração,Produto_34,350.78,5,Pix,13.34,1753.9
+1850,2023-06-11,349,Porto Alegre,Eletrônicos,Produto_6,200.39,1,Pix,31.99,200.39
+1851,2023-12-21,261,Curitiba,Eletrônicos,Produto_45,229.86,9,Boleto,43.77,2068.74
+1852,2023-09-18,217,Belo Horizonte,Alimentos,Produto_14,126.4,7,,44.09,884.8
+1853,2023-08-28,358,Recife,Decoração,Produto_34,192.89,8,Cartão de Crédito,37.6,1543.12
+1854,2023-05-08,478,Rio de Janeiro,Vestuário,Produto_26,121.36,9,Pix,38.56,1092.24
+1855,2023-09-15,405,Curitiba,Vestuário,Produto_16,45.87,6,Pix,30.11,275.22
+1856,2023-10-25,367,Recife,Eletrônicos,Produto_19,305.69,5,Cartão de Crédito,31.31,1528.45
+1857,2023-05-08,153,Salvador,Eletrônicos,Produto_34,337.42,6,Pix,11.01,2024.52
+1858,2023-06-04,335,Rio de Janeiro,Vestuário,Produto_47,313.55,2,Pix,24.97,627.1
+1859,2023-02-01,488,Rio de Janeiro,Livros,Produto_40,237.11,4,Pix,25.28,948.44
+1860,2023-09-19,321,Belo Horizonte,Alimentos,Produto_37,196.1,3,Boleto,48.13,588.3
+1861,2023-08-18,350,Curitiba,Decoração,Produto_31,433.03,7,Cartão de Débito,24.4,3031.21
+1862,2023-08-29,412,Rio de Janeiro,Eletrônicos,Produto_49,264.35,9,Cartão de Crédito,29.72,2379.15
+1863,2023-11-25,211,Curitiba,Livros,Produto_2,244.8,5,,29.0,1224.0
+1864,2023-03-17,354,Porto Alegre,Alimentos,Produto_7,22.56,6,Boleto,33.65,135.36
+1865,2023-01-20,402,São Paulo,Vestuário,Produto_31,177.21,2,Boleto,38.67,354.42
+1866,2023-04-24,306,Curitiba,Eletrônicos,Produto_11,196.3,3,Cartão de Crédito,15.13,588.9
+1867,2023-12-26,328,Salvador,Alimentos,Produto_39,205.42,3,Cartão de Débito,28.79,616.26
+1868,2023-03-26,440,Curitiba,Decoração,Produto_36,294.28,9,Boleto,42.17,2648.52
+1869,2023-11-09,497,Porto Alegre,Livros,Produto_19,271.47,7,Cartão de Crédito,25.84,1900.29
+1870,2023-05-27,165,São Paulo,Alimentos,Produto_13,307.87,8,,17.53,2462.96
+1871,2023-07-27,174,Curitiba,Eletrônicos,Produto_10,384.79,9,Cartão de Crédito,34.46,3463.11
+1872,2023-10-21,202,São Paulo,Vestuário,Produto_38,408.36,6,Cartão de Débito,42.07,2450.16
+1873,2023-08-11,291,Curitiba,Livros,Produto_11,361.88,4,Cartão de Crédito,7.84,1447.52
+1874,2023-08-31,351,São Paulo,Livros,Produto_41,478.21,1,Cartão de Crédito,39.96,478.21
+1875,2023-12-08,325,Rio de Janeiro,Decoração,Produto_40,18.93,8,Pix,41.97,151.44
+1876,2023-01-10,393,Porto Alegre,Livros,Produto_23,105.93,7,Boleto,25.77,741.51
+1877,2023-11-06,405,Curitiba,Eletrônicos,Produto_32,13.71,2,,49.25,27.42
+1878,2023-04-07,197,Curitiba,Livros,Produto_24,327.26,8,Cartão de Crédito,40.4,2618.08
+1879,2024-01-01,437,Porto Alegre,Eletrônicos,Produto_24,450.03,5,Pix,39.81,2250.15
+1880,2023-02-16,385,Curitiba,Alimentos,Produto_25,129.31,7,Cartão de Débito,38.65,905.17
+1881,2023-01-22,434,Belo Horizonte,Vestuário,Produto_41,464.25,4,Pix,11.78,1857.0
+1882,2023-06-21,446,Belo Horizonte,Eletrônicos,Produto_9,39.53,5,Cartão de Crédito,14.78,197.65
+1883,2023-05-12,407,Curitiba,Eletrônicos,Produto_16,467.87,8,Pix,25.88,3742.96
+1884,2023-11-01,348,Belo Horizonte,Livros,Produto_11,182.3,1,,16.88,182.3
+1885,2023-10-29,265,Belo Horizonte,Vestuário,Produto_19,59.7,1,Cartão de Crédito,23.69,59.7
+1886,2023-02-18,434,Rio de Janeiro,Livros,Produto_14,248.08,4,Pix,44.98,992.32
+1887,2023-11-10,129,Porto Alegre,Decoração,Produto_35,135.82,3,Boleto,42.09,407.46
+1888,2023-10-22,346,Rio de Janeiro,Vestuário,Produto_49,149.59,2,Pix,33.35,299.18
+1889,2023-01-12,205,Recife,Livros,Produto_32,160.57,3,Cartão de Crédito,43.62,481.71
+1890,2023-02-03,150,Porto Alegre,Livros,Produto_2,403.48,1,Cartão de Crédito,40.27,403.48
+1891,2023-08-22,180,Porto Alegre,Decoração,Produto_33,274.19,1,Cartão de Crédito,24.3,274.19
+1892,2023-10-14,232,Salvador,Vestuário,Produto_2,162.54,6,Cartão de Crédito,14.05,975.24
+1893,2023-09-16,384,Curitiba,Eletrônicos,Produto_30,309.06,5,Cartão de Crédito,28.14,1545.3
+1894,2023-05-24,487,Belo Horizonte,Decoração,Produto_38,360.91,8,Cartão de Crédito,38.13,2887.28
+1895,2023-07-04,237,Salvador,Vestuário,Produto_26,143.59,2,Boleto,24.64,287.18
+1896,2023-10-23,283,Porto Alegre,Alimentos,Produto_40,212.64,4,Cartão de Crédito,35.0,850.56
+1897,2023-01-26,429,São Paulo,Alimentos,Produto_48,69.72,8,Boleto,9.24,557.76
+1898,2023-10-09,372,São Paulo,Alimentos,Produto_14,98.76,6,Cartão de Débito,38.66,592.56
+1899,2023-09-06,439,São Paulo,Eletrônicos,Produto_50,343.75,1,Boleto,41.57,343.75
+1900,2023-05-16,168,Porto Alegre,Alimentos,Produto_21,98.9,4,Boleto,36.81,395.6
+1901,2023-03-20,133,Rio de Janeiro,Decoração,Produto_37,267.33,1,Cartão de Crédito,48.53,267.33
+1902,2023-06-24,361,Curitiba,Alimentos,Produto_29,357.43,2,Cartão de Débito,42.2,714.86
+1903,2023-05-04,152,Curitiba,Eletrônicos,Produto_8,62.37,5,Pix,45.64,311.85
+1904,2023-04-01,304,Porto Alegre,Alimentos,Produto_33,287.98,8,Cartão de Débito,47.01,2303.84
+1905,2023-10-07,225,Salvador,Livros,Produto_48,135.72,8,Cartão de Débito,41.06,1085.76
+1906,2023-02-12,334,Curitiba,Decoração,Produto_43,481.83,3,Cartão de Débito,35.34,1445.49
+1907,2023-11-03,142,Curitiba,Livros,Produto_48,246.94,4,Boleto,5.26,987.76
+1908,2023-10-27,339,Porto Alegre,Decoração,Produto_46,404.94,6,Cartão de Crédito,25.96,2429.64
+1909,2023-07-07,470,Rio de Janeiro,Decoração,Produto_25,279.61,3,Cartão de Crédito,30.7,838.83
+1910,2023-01-18,210,Recife,Alimentos,Produto_33,31.27,2,Cartão de Crédito,18.68,62.54
+1911,2023-01-26,348,Belo Horizonte,Decoração,Produto_40,320.24,6,,19.31,1921.44
+1912,2023-05-25,250,São Paulo,Vestuário,Produto_17,476.19,5,Pix,48.25,2380.95
+1913,2023-03-23,282,Curitiba,Eletrônicos,Produto_14,304.79,5,Boleto,45.13,1523.95
+1914,2023-08-12,435,Curitiba,Vestuário,Produto_17,411.4,5,Pix,43.21,2057.0
+1915,2023-05-18,194,Rio de Janeiro,Vestuário,Produto_37,443.26,5,Boleto,23.27,2216.3
+1916,2023-08-16,473,Recife,Livros,Produto_32,121.76,3,Pix,5.62,365.28
+1917,2023-10-12,499,São Paulo,Vestuário,Produto_45,113.9,7,Boleto,8.61,797.3
+1918,2023-01-03,107,Rio de Janeiro,Decoração,Produto_30,309.38,6,Pix,19.05,1856.28
+1919,2023-05-22,487,São Paulo,Vestuário,Produto_28,211.4,4,Pix,5.71,845.6
+1920,2023-02-28,459,Salvador,Vestuário,Produto_30,421.53,2,Boleto,5.77,843.06
+1921,2023-11-29,487,Recife,Livros,Produto_32,451.01,9,Pix,46.25,4059.09
+1922,2023-07-15,283,Salvador,Alimentos,Produto_4,183.18,1,Boleto,36.78,183.18
+1923,2023-06-02,380,Rio de Janeiro,Alimentos,Produto_26,126.07,4,Pix,18.9,504.28
+1924,2023-04-13,294,Recife,Alimentos,Produto_33,392.46,1,Cartão de Débito,10.97,392.46
+1925,2023-12-11,451,São Paulo,Alimentos,Produto_8,144.65,6,Cartão de Crédito,28.02,867.9
+1926,2023-06-26,294,Salvador,Eletrônicos,Produto_9,413.08,4,Cartão de Crédito,5.24,1652.32
+1927,2023-05-30,254,Porto Alegre,Eletrônicos,Produto_22,217.63,5,,47.23,1088.15
+1928,2023-03-17,192,Recife,Eletrônicos,Produto_48,337.1,5,Cartão de Crédito,23.67,1685.5
+1929,2023-11-01,259,Recife,Alimentos,Produto_16,56.81,9,Boleto,23.11,511.29
+1930,2023-08-03,160,Salvador,Alimentos,Produto_42,315.69,1,Pix,22.58,315.69
+1931,2023-06-26,221,Salvador,Decoração,Produto_28,231.37,2,Boleto,8.12,462.74
+1932,2023-03-09,150,Porto Alegre,Vestuário,Produto_31,297.44,6,Cartão de Crédito,33.72,1784.64
+1933,2023-06-20,376,Recife,Vestuário,Produto_20,92.33,5,Pix,37.99,461.65
+1934,2023-10-27,104,Belo Horizonte,Livros,Produto_5,371.07,7,Cartão de Débito,35.43,2597.49
+1935,2023-05-01,191,Porto Alegre,Alimentos,Produto_21,432.77,3,Pix,11.23,1298.31
+1936,2023-07-30,269,Curitiba,Alimentos,Produto_42,116.2,3,Pix,31.05,348.6
+1937,2023-04-14,416,Salvador,Vestuário,Produto_14,56.9,2,Boleto,30.63,113.8
+1938,2023-10-26,121,Recife,Livros,Produto_39,21.58,3,Pix,44.08,64.74
+1939,2023-03-19,425,Curitiba,Vestuário,Produto_23,324.57,1,Boleto,22.06,324.57
+1940,2023-12-19,100,São Paulo,Livros,Produto_7,307.48,5,Pix,21.72,1537.4
+1941,2023-06-19,232,São Paulo,Alimentos,Produto_1,277.88,5,Boleto,32.83,1389.4
+1942,2023-03-12,332,Recife,Livros,Produto_28,123.65,7,Boleto,33.49,865.55
+1943,2023-02-20,111,São Paulo,Livros,Produto_42,201.54,4,Pix,26.12,806.16
+1944,2023-03-28,445,Salvador,Alimentos,Produto_34,301.29,3,Cartão de Crédito,24.94,903.87
+1945,2023-09-10,145,Curitiba,Decoração,Produto_9,253.42,1,Pix,27.24,253.42
+1946,2023-09-15,133,Recife,Eletrônicos,Produto_8,494.01,8,Cartão de Débito,43.75,3952.08
+1947,2023-11-02,177,Rio de Janeiro,Vestuário,Produto_46,76.86,3,Pix,25.75,230.58
+1948,2023-02-18,317,São Paulo,Alimentos,Produto_42,350.62,2,Pix,47.3,701.24
+1949,2023-03-10,400,Salvador,Decoração,Produto_27,208.12,4,Cartão de Crédito,27.68,832.48
+1950,2023-05-16,172,Recife,Eletrônicos,Produto_44,219.82,3,Cartão de Débito,47.71,659.46
+1951,2023-05-30,381,Salvador,Decoração,Produto_22,361.62,1,Cartão de Crédito,42.48,361.62
+1952,2023-09-22,348,São Paulo,Decoração,Produto_21,349.29,3,Boleto,21.31,1047.87
+1953,2023-09-27,146,São Paulo,Livros,Produto_20,495.72,2,Pix,43.86,991.44
+1954,2023-01-06,220,São Paulo,Alimentos,Produto_49,72.91,8,Cartão de Crédito,9.95,583.28
+1955,2023-09-01,313,Recife,Vestuário,Produto_42,61.01,6,Boleto,46.63,366.06
+1956,2023-09-28,338,Recife,Decoração,Produto_20,364.93,9,Cartão de Débito,33.42,3284.37
+1957,2023-09-22,155,Recife,Vestuário,Produto_34,293.41,8,,7.45,2347.28
+1958,2023-06-03,449,Porto Alegre,Livros,Produto_4,144.34,3,Pix,33.99,433.02
+1959,2023-12-31,206,Recife,Alimentos,Produto_31,48.92,5,Pix,48.84,244.6
+1960,2023-07-03,418,Porto Alegre,Vestuário,Produto_12,51.97,7,Cartão de Débito,8.14,363.79
+1961,2023-12-30,147,Recife,Vestuário,Produto_5,448.15,5,,29.96,2240.75
+1962,2023-02-27,160,Belo Horizonte,Livros,Produto_10,104.01,8,Cartão de Débito,38.65,832.08
+1963,2023-02-19,436,Porto Alegre,Decoração,Produto_34,168.45,5,Pix,41.46,842.25
+1964,2023-04-24,125,Curitiba,Vestuário,Produto_5,121.06,1,Cartão de Débito,23.62,121.06
+1965,2023-12-10,391,Belo Horizonte,Vestuário,Produto_24,183.95,5,Cartão de Débito,14.19,919.75
+1966,2023-02-25,356,Belo Horizonte,Livros,Produto_28,44.02,4,Pix,6.91,176.08
+1967,2023-07-09,107,Recife,Decoração,Produto_1,264.34,6,Boleto,31.09,1586.04
+1968,2023-04-09,212,Belo Horizonte,Decoração,Produto_16,43.13,3,Pix,25.38,129.39
+1969,2023-08-18,454,Salvador,Livros,Produto_8,402.17,5,Cartão de Crédito,47.69,2010.85
+1970,2023-02-04,352,Recife,Eletrônicos,Produto_27,124.52,2,Pix,7.73,249.04
+1971,2023-05-20,279,Curitiba,Livros,Produto_30,274.61,6,Cartão de Débito,35.84,1647.66
+1972,2023-09-19,306,Porto Alegre,Vestuário,Produto_34,441.24,6,Cartão de Débito,6.12,2647.44
+1973,2023-08-31,402,Porto Alegre,Alimentos,Produto_1,328.93,5,Cartão de Crédito,12.71,1644.65
+1974,2023-07-06,226,São Paulo,Eletrônicos,Produto_27,271.15,6,Boleto,25.41,1626.9
+1975,2023-03-28,155,Rio de Janeiro,Livros,Produto_31,168.92,7,Pix,25.47,1182.44
+1976,2023-09-20,313,Rio de Janeiro,Alimentos,Produto_24,173.17,5,Cartão de Crédito,35.86,865.85
+1977,2023-11-03,113,Rio de Janeiro,Decoração,Produto_8,338.05,1,Cartão de Débito,45.96,338.05
+1978,2023-06-27,127,Porto Alegre,Vestuário,Produto_31,497.13,8,Pix,33.76,3977.04
+1979,2023-09-17,177,Recife,Alimentos,Produto_13,334.3,4,Pix,47.91,1337.2
+1980,2023-07-09,315,Salvador,Eletrônicos,Produto_4,283.31,9,Pix,44.67,2549.79
+1981,2023-09-08,485,São Paulo,Livros,Produto_26,368.02,6,Boleto,31.3,2208.12
+1982,2023-04-11,464,Porto Alegre,Eletrônicos,Produto_20,237.95,1,Boleto,42.52,237.95
+1983,2023-07-06,253,Salvador,Decoração,Produto_42,39.47,3,Cartão de Crédito,33.92,118.41
+1984,2023-03-20,113,Belo Horizonte,Decoração,Produto_32,285.53,3,Pix,8.54,856.59
+1985,2023-05-04,286,Belo Horizonte,Decoração,Produto_40,479.24,4,Cartão de Crédito,38.33,1916.96
+1986,2023-03-15,411,Porto Alegre,Livros,Produto_8,95.9,6,Pix,9.27,575.4
+1987,2023-09-06,470,Curitiba,Decoração,Produto_30,348.1,7,Pix,31.73,2436.7
+1988,2023-07-30,106,Salvador,Decoração,Produto_21,108.46,4,Pix,36.62,433.84
+1989,2023-06-10,102,Porto Alegre,Alimentos,Produto_49,272.56,6,Boleto,7.99,1635.36
+1990,2023-09-10,210,Rio de Janeiro,Alimentos,Produto_7,57.37,1,Cartão de Débito,15.39,57.37
+1991,2023-02-23,337,Salvador,Eletrônicos,Produto_39,230.68,8,Cartão de Crédito,46.21,1845.44
+1992,2023-11-29,462,Salvador,Eletrônicos,Produto_23,380.52,7,Pix,32.73,2663.64
+1993,2023-11-07,338,Recife,Eletrônicos,Produto_34,180.31,9,Boleto,16.08,1622.79
+1994,2023-01-19,373,Curitiba,Decoração,Produto_21,335.81,3,Boleto,36.08,1007.43
+1995,2023-12-26,393,Rio de Janeiro,Vestuário,Produto_32,399.77,2,Cartão de Débito,31.85,799.54
+1996,2023-11-16,326,Recife,Vestuário,Produto_30,464.32,1,Cartão de Crédito,27.57,464.32
+1997,2023-01-23,470,Recife,Livros,Produto_10,124.97,3,Cartão de Crédito,48.93,374.91
+1998,2023-07-08,114,Rio de Janeiro,Decoração,Produto_37,205.66,5,Pix,35.76,1028.3
+1999,2023-06-09,291,Recife,Alimentos,Produto_40,84.68,2,Cartão de Débito,21.89,169.36
+2000,2023-03-18,218,Rio de Janeiro,Vestuário,Produto_11,496.32,3,Cartão de Crédito,41.0,1488.96
